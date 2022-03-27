@@ -274,12 +274,16 @@ For that reason, using the built in `-p` proxy support is preferred because, as 
 documentation, the "provided proxy is used for the entire life cycle of the search to make it look more human, instead
 of rotating through various proxies for different portions of the search."
 
+## Reference for Dorks
+
+https://securitytrails.com/blog/google-hacking-techniques
+
 ## License
 
 Distributed under the GNU General Public License v3.0. See [LICENSE](./LICENSE) for more information.
 
 ## Contact
 
-[@opsdisk](https://twitter.com/opsdisk)
+[@CyberkidAdithya](https://twitter.com/cyberkid05)
 
 Project Link: [https://github.com/opsdisk/pydosc](https://github.com/opsdisk/pydosc)
