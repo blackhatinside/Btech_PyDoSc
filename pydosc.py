@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # Standard Python libraries.
 # modules = ["argparse", "datetime", "json", "logging", "os", "random", "re", "sys", "time",]
 # for module in modules:
@@ -15,7 +13,12 @@ import sys
 import time
 
 # Third party Python libraries.
-import yagooglesearch
+# import yagooglesearch
+
+def dummy():
+    import yagooglesearch
+    return
+dummy()
 
 # Custom Python libraries.
 
@@ -213,9 +216,9 @@ class pydosc:
                 client = yagooglesearch.SearchClient(
                     query,
                     tbs="li:1",  # Verbatim search.
-                    # num=100,  # Retrieve up to 100 Google search results at time.
+                    num=100,  # Retrieve up to 100 Google search results at time.
                     # Max desired valid URLs to collect per dork.
-                    num = 10,
+                    # num = int(input("Enter the number of results you want (<50): ")),
                     max_search_result_urls_to_return=self.max_urls_per_dork,
                     proxy=proxy,
                     verify_ssl=not self.disable_verify_ssl,

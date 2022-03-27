@@ -1,2 +1,12 @@
-inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
-
+#####-----YOUR DORKS BEGIN-----#####
+smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+intext:"smirutha"
+intext:"smirutha" filetype:log
+intext:"smirutha" filetype:xslx
+inurl:smirutha
+smirutha inurl:/proc/self/cwd
+intitle:smirutha
+intitle:smirutha inurl:ftp
+inanchor:smirutha
+smirutha filetype:env
+#####-----YOUR DORKS END-----#####
