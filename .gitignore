@@ -1,0 +1,5 @@
+# dir_to_ignore/
+dorks/
+myvenv/
+LinuxScrap/
+Reports/
