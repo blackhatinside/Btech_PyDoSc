@@ -13,7 +13,7 @@ import sys
 import time
 
 # Third party Python libraries.
-# import yagooglesearch
+import yagooglesearch
 
 def dummy():
     import yagooglesearch
@@ -39,7 +39,7 @@ print(banner)
 # Logging
 ROOT_LOGGER = logging.getLogger("pydosc")
 # ISO 8601 datetime format by default.
-LOG_FORMATTER = logging.Formatter("%(asctime)s [%(threadName)-12.12s] [%(levelname)s] %(message)s")
+LOG_FORMATTER = logging.Formatter("%(asctime)s [%(processName)-12.12s] [%(threadName)-12.12s] [%(levelname)s] %(message)s")
 
 # Setup file logging.
 log_file_handler = logging.FileHandler("pydosc.py.log")
@@ -63,7 +63,7 @@ class pydosc:
         max_urls_per_dork=1,
         save_pydosc_results_to_json_file=False,
         proxies="",
-        save_urls_to_file=False,
+        save_urls_to_file=True,
         min_delay_secs=37,
         max_delay_secs=60,
         disable_verify_ssl=False,
@@ -138,8 +138,8 @@ class pydosc:
             )
         )
 
-        # self.base_file_name = f'pydosc_results_{datetime.datetime.now().strftime("%Y%m%d_%H%M%S")}'
-        self.base_file_name = 'my_osint_links'
+        self.base_file_name = f'pydosc_results_{datetime.datetime.now().strftime("%Y%m%d_%H%M%S")}'
+        # self.base_file_name = f'my_osint_links'
         self.total_urls_found = 0
         self.proxy_rotation_index = 0
 
@@ -216,9 +216,10 @@ class pydosc:
                 client = yagooglesearch.SearchClient(
                     query,
                     tbs="li:1",  # Verbatim search.
-                    num=100,  # Retrieve up to 100 Google search results at time.
+                    # num=100,  # Retrieve up to 100 Google search results at time.
                     # Max desired valid URLs to collect per dork.
                     # num = int(input("Enter the number of results you want (<50): ")),
+                    num = 10,
                     max_search_result_urls_to_return=self.max_urls_per_dork,
                     proxy=proxy,
                     verify_ssl=not self.disable_verify_ssl,
@@ -266,6 +267,7 @@ class pydosc:
                     # Save URLs with valid results to an .txt file.
                     if self.save_urls_to_file:
                         with open(f"{self.base_file_name}.txt", "a") as fh:
+                            print("writing.....")
                             fh.write(f"# {dork}\n")
                             for url in dork_urls_list:
                                 fh.write(f"{url}\n")
@@ -414,3 +416,9 @@ if __name__ == "__main__":
 
     pydosc = pydosc(**vars(args))
     pydosc.go()
+
+if not __name__ == '__main__':
+    print("Hello World")
+    initiation_timestamp = datetime.datetime.now().isoformat()
+
+    ROOT_LOGGER.info(f"Initiation timestamp: {initiation_timestamp}")

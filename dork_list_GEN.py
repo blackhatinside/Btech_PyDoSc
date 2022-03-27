@@ -23,18 +23,20 @@ with open(f"dork_list.txt", "w+", encoding="utf-8") as fo:
 
 	if keyword.isalpha():
 
-		fo.write('#####-----YOUR DORKS BEGIN-----#####\n')
+		# fo.write('#####-----YOUR DORKS BEGIN-----#####\n')
 
 
 		fo.write('{} inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx\n'.format(keyword))
 
-		fo.write('intext:"{}"\n'.format(keyword))
+		fo.write('{} filetype:env\n'.format(keyword))
 
 		fo.write('intext:"{}" filetype:log\n'.format(keyword))
 
 		fo.write('intext:"{}" filetype:xslx\n'.format(keyword))
 
-		# fo.write('intext:"{}" filetype:pdf\n'.format(keyword))
+		fo.write('intext:"{}"\n'.format(keyword))
+
+		# fo.write('intext:"{}" filetype:pdf\n'.format(keyword))	# abnormal output!!!
 
 		fo.write('inurl:{}\n'.format(keyword))
 
@@ -46,10 +48,8 @@ with open(f"dork_list.txt", "w+", encoding="utf-8") as fo:
 
 		fo.write('inanchor:{}\n'.format(keyword))
 
-		fo.write('{} filetype:env\n'.format(keyword))
 
-
-		fo.write('#####-----YOUR DORKS END-----#####')
+		# fo.write('#####-----YOUR DORKS END-----#####')
 
 	else:
 		print("Invalid Input")

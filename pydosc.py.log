@@ -158,3 +158,593 @@ https://pastebin.com/qDAW5LAY
 2022-03-27 09:23:18,830 [MainThread  ] [INFO] Sleeping 37.2 seconds before executing the next dork search...
 2022-03-27 09:23:38,329 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T09:23:38.329238
 2022-03-27 09:23:38,329 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1' through proxy ''
+2022-03-27 14:58:16,582 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T14:58:16.582902
+2022-03-27 14:58:16,582 [MainThread  ] [ERROR] Error with dork: #####-----YOUR DORKS BEGIN-----#####
+2022-03-27 14:58:16,582 [MainThread  ] [ERROR] EXCEPTION: name 'yagooglesearch' is not defined
+2022-03-27 14:58:16,582 [MainThread  ] [INFO] Sleeping 56.6 seconds before executing the next dork search...
+2022-03-27 14:59:28,830 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T14:59:28.830782
+2022-03-27 14:59:28,830 [MainThread  ] [ERROR] Error with dork: #####-----YOUR DORKS BEGIN-----#####
+2022-03-27 14:59:28,830 [MainThread  ] [ERROR] EXCEPTION: name 'yagooglesearch' is not defined
+2022-03-27 14:59:28,830 [MainThread  ] [INFO] Sleeping 56.8 seconds before executing the next dork search...
+2022-03-27 15:00:03,855 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:00:03.855363
+2022-03-27 15:00:03,855 [MainThread  ] [INFO] Search ( 1 / 12 ) for Google dork [ #####-----YOUR DORKS BEGIN-----##### ] using User-Agent 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.2a1pre) Gecko/20110324 Firefox/4.2a1pre' through proxy ''
+2022-03-27 15:00:06,312 [MainThread  ] [INFO] Results: 100 URLs found for Google dork: #####-----YOUR DORKS BEGIN-----#####
+2022-03-27 15:00:06,312 [MainThread  ] [INFO] dork_urls_list:
+https://www.slideshare.net/Simplilearn/google-dorking-tutorial-what-is-google-dorks-and-how-to-use-it-ethical-hacking-simplilearn
+https://www.youtube.com/watch?v=Jsg9JOyoeg0
+https://www.youtube.com/watch?v=zVBCrX-X3c8
+https://www.youtube.com/watch?v=q30xdbewwVg
+https://securitytrails.com/blog/top-shodan-dorks
+https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+https://www.dictionary.com/browse/dork
+https://whatis.techtarget.com/definition/Google-dork-query
+https://whatis.techtarget.com/definition/Google-dork
+https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/
+https://www.wattpad.com/81343899-drama-dorks-and-football-jocks-let%27s-begin
+https://in.pinterest.com/pin/1036390932968554176/
+https://www.quora.com/How-did-you-begin-your-career-as-a-penetration-tester
+https://variety.com/list_item/snow-white-and-the-seven-dorks/
+https://gist.github.com/mehdichaouch/9f6ec047d03dc06b6d02aec8507cdeb4
+https://www.youtube.com/watch?v=LDVqruRsYtA
+https://www.youtube.com/watch?v=BBaInUXAxgU
+https://www.youtube.com/watch?v=yKV-T-HBd3Q
+https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+https://www.linkedin.com/pulse/warehouse-optimization-dorks-seeing-believing-taylor-holbrook
+https://doordorks.com/blog/
+https://kpophighindia.com/know-your-k-pop-group-astro/
+http://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+https://doordorks.com/garage-door-repair-and-installation-carlsbad-ca/
+https://www.bugbountyhunter.com/getting-started/
+https://www.youtube.com/watch?v=z-DtyzhTxHw
+https://www.kirkusreviews.com/book-reviews/beth-vrabel/pack-of-dorks/
+https://www.amazon.com/Sports-Dorks-Football-Mike-Leach/dp/0615484972
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LMR5B2W
+https://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+http://lea-sander.de/netflix-keywords-for-dorks.html
+https://www.theledger.com/picture-gallery/news/2017/03/31/jungle-homeless-camp-residents-begin-relocation/99877192/
+https://in.pinterest.com/pin/478014947950665227/
+https://www.youtube.com/watch?v=-frtLC24pG8
+https://www.youtube.com/watch?v=2zyWkX_8EE8
+https://www.youtube.com/watch?v=XAnATwNGzTY
+https://www.youtube.com/watch?v=hrVa_dhD-iA
+https://www.baltimoresun.com/la-et-mn-secret-lives-dorks-review-story.html
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LKCP1C9
+https://www.amazon.com/Gizmo-Dorks-Preapplied-Laminated-Adhesive/dp/B07GSJSDWR
+https://infosecwriteups.com/how-to-route-all-your-traffics-through-tor-in-kali-linux-may-be-linux-arch-without-using-tor-a33b41a75da4
+https://dorkdiaries.fandom.com/wiki/Dork_Diaries:_Tales_from_a_Not-So-Talented_Pop_Star
+https://traversals.com/blog/social-media-investigations/
+https://www.youtube.com/watch?v=LoGIjijeVrE
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Filament-Printers/product-reviews/B00FG7BWDQ
+https://www.amazon.com/Sports-Dorks-College-Football-Ferhat-ebook/dp/B005UHJJJ6
+https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/product-reviews/B01HP2CEG8
+https://www.mackincommunity.com/2015/09/29/rachel-renee-russell/
+https://www.open-contracting.org/2016/11/30/red-flags-integrity-giving-green-light-open-data-solutions/
+https://www.fosters.com/sitemap/2017/may/4/
+https://mydisneydorks.com/2021/08/13/video-space-themed-restaurant-coming-to-epcot-gets-september-opening-date/
+https://www.salary.com/research/company/hourly-wage-for-dorks-discount
+https://www.oklahoman.com/story/news/2008/05/28/torque-dorks/61587296007/
+https://dorksdelivered.com.au/blog/internet/
+https://dorksdelivered.com.au/it-solutions/what-makes-an-effective-it-audit-process
+https://dorksdelivered.com.au/cybersecurity/14-website-security-measures-to-protect-you-from-hackers
+https://mutsy.com/when-should-you-start-feeding-a-baby-solid-foods
+https://www.theledger.com/picture-gallery/news/local/2020/12/15/covid-19-vaccinations-begin-newport-hospital-photos/3909565001/
+https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+https://doordorks.com/category/garage-doors/
+https://www.youtube.com/watch?v=82NW-83uNk8
+https://www.youtube.com/watch?v=x8Vdb_F_wCE
+https://lmsvoice.com/lesson/dorks/
+https://www.unigo.com/get-to-college/college-search
+https://www.wallarm.com/what/google-dork-concepts-and-commands
+https://dorkdiaries.com/2015/02/when-your-friends-wont-forgive-you/
+https://www.dreadcentral.com/reviews/4591/night-of-the-living-dorks-dvd/
+https://www.supercars.net/forum/threads/hondas-suck.146536/page-2
+https://www.cybereason.com/blog/how-to-generate-a-hypothesis-for-a-threat-hunt-techniques
+http://duadarasentosa.com/0kdaqo/intext-password.html
+https://www.amazon.com/product-reviews/B00FG7C5BE
+https://www.pinterest.com/pin/3-speckles-custom-made-sewn-cushion-mudroom-cushion--689613761702213939/
+https://www.ipolitics.ca/news/evening-brief-gropes-gods-dorks
+https://marquettewire.org/3788016/tribune/viewpoints/harper-im-a-dork-youre-a-dork-were-all-dorks-az1-tm2-dac3/
+https://www.youtube.com/watch?v=L9LaeCc_dMs
+https://www.youtube.com/watch?v=BS84JiiGs3s
+https://www.pinterest.com/pin/572660908871786350/
+https://gizmodorks.com/blog/all-about-abs-filament/
+https://www.amazon.ae/Composition-Notebook-Marvel-Spider-Man-Journal/dp/1711668435
+https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/hip-hop/hip-hop-a-culture-of-vision-and-voice/
+https://zweiradwiesmayr.at/the-shows-associated-with-website-will-be-the-3/
+https://thefangirlverdict.com/2020/09/12/review-find-me-in-your-memory/
+https://github.com/obheda12/GitDorker
+https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/
+https://blog.detectify.com/2020/02/26/gehaxelt-how-wordpress-plugins-leak-sensitive-information-without-you-noticing/
+https://www.youtube.com/watch?v=K5_D52qYY4M
+https://www.gq.com/story/ceos-are-using-botox-to-not-look-like-sweaty-dorks-during-meetings
+https://mydisneydorks.com/2020/02/09/video-new-monorails-coming-to-tokyo-disneyland-to-being-service-this-spring/
+https://kaizendorks.github.io/tutorials/kubernetes/
+https://aminoapps.com/c/mtg/page/blog/mh2-previews-begin/xpJi_2u6xZ4XGWm7X5Rb548k0QoJRzl
+https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
+https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+https://www.vulture.com/article/super-bowl-halftime-show-past-retro-spectacle.html
+https://www.instagram.com/jxngkookk/
+https://dentaldorks.com/baby-teeth-roots/
+https://www.wired.com/2008/03/interview-justi/
+https://www.amazon.com/Geek-Shall-Find-Devotions-Everywhere/dp/0736976345
+https://medium.com/@kunalslab/what-do-you-want-the-highlight-of-your-day-to-be-224b6242a9b4
+https://www.coursehero.com/file/100630193/HOW-TO-MAKE-HQ-DORKS-KEYWORDS-MY-METHODpdf/
+https://www.youtube.com/watch?v=DBpd9e4tJfg
+2022-03-27 15:00:06,313 [MainThread  ] [INFO] Sleeping 37.2 seconds before executing the next dork search...
+2022-03-27 15:10:28,343 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:10:28.343815
+2022-03-27 15:10:28,343 [MainThread  ] [INFO] Search ( 1 / 12 ) for Google dork [ #####-----YOUR DORKS BEGIN-----##### ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.3a5pre) Gecko/20100526 Firefox/3.7a5pre' through proxy ''
+2022-03-27 15:10:30,348 [MainThread  ] [INFO] Results: 100 URLs found for Google dork: #####-----YOUR DORKS BEGIN-----#####
+2022-03-27 15:10:30,348 [MainThread  ] [INFO] dork_urls_list:
+https://www.youtube.com/watch?v=Jsg9JOyoeg0
+https://www.youtube.com/watch?v=zVBCrX-X3c8
+https://www.youtube.com/watch?v=q30xdbewwVg
+https://securitytrails.com/blog/top-shodan-dorks
+https://www.slideshare.net/Simplilearn/google-dorking-tutorial-what-is-google-dorks-and-how-to-use-it-ethical-hacking-simplilearn
+https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+https://www.dictionary.com/browse/dork
+https://whatis.techtarget.com/definition/Google-dork-query
+https://whatis.techtarget.com/definition/Google-dork
+https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/
+https://www.wattpad.com/81343899-drama-dorks-and-football-jocks-let%27s-begin
+https://in.pinterest.com/pin/1036390932968554176/
+https://gist.github.com/mehdichaouch/9f6ec047d03dc06b6d02aec8507cdeb4
+https://www.youtube.com/watch?v=LDVqruRsYtA
+https://www.youtube.com/watch?v=z-DtyzhTxHw
+https://www.youtube.com/watch?v=BBaInUXAxgU
+https://www.youtube.com/watch?v=2zyWkX_8EE8
+https://www.youtube.com/watch?v=yKV-T-HBd3Q
+https://www.youtube.com/watch?v=hrVa_dhD-iA
+https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+https://www.quora.com/How-did-you-begin-your-career-as-a-penetration-tester
+https://variety.com/list_item/snow-white-and-the-seven-dorks/
+https://www.bugbountyhunter.com/getting-started/
+http://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+https://www.mackincommunity.com/2015/09/29/rachel-renee-russell/
+https://www.kirkusreviews.com/book-reviews/beth-vrabel/pack-of-dorks/
+https://doordorks.com/blog/
+https://doordorks.com/garage-door-repair-and-installation-carlsbad-ca/
+https://mydisneydorks.com/2021/08/13/video-space-themed-restaurant-coming-to-epcot-gets-september-opening-date/
+https://www.linkedin.com/pulse/warehouse-optimization-dorks-seeing-believing-taylor-holbrook
+https://www.salary.com/research/company/hourly-wage-for-dorks-discount
+https://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+https://dorksdelivered.com.au/blog/internet/
+https://www.amazon.com/Sports-Dorks-Football-Mike-Leach/dp/0615484972
+https://www.baltimoresun.com/la-et-mn-secret-lives-dorks-review-story.html
+https://dorksdelivered.com.au/it-solutions/what-makes-an-effective-it-audit-process
+https://dorksdelivered.com.au/cybersecurity/14-website-security-measures-to-protect-you-from-hackers
+https://doordorks.com/category/garage-doors/
+https://www.youtube.com/watch?v=82NW-83uNk8
+https://www.youtube.com/watch?v=-frtLC24pG8
+https://www.youtube.com/watch?v=XAnATwNGzTY
+https://github.com/obheda12/GitDorker
+https://www.unigo.com/get-to-college/college-search
+https://dorkdiaries.com/2015/02/when-your-friends-wont-forgive-you/
+https://www.fosters.com/sitemap/2017/may/4/
+https://www.supercars.net/forum/threads/hondas-suck.146536/page-2
+https://www.theledger.com/picture-gallery/news/2017/03/31/jungle-homeless-camp-residents-begin-relocation/99877192/
+https://www.cybereason.com/blog/how-to-generate-a-hypothesis-for-a-threat-hunt-techniques
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LMR5B2W
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Filament-Printers/product-reviews/B00FG7BWDQ
+https://www.amazon.com/Sports-Dorks-College-Football-Ferhat-ebook/dp/B005UHJJJ6
+https://in.pinterest.com/pin/478014947950665227/
+http://duadarasentosa.com/0kdaqo/intext-password.html
+https://www.oklahoman.com/story/news/2008/05/28/torque-dorks/61587296007/
+https://www.youtube.com/watch?v=LoGIjijeVrE
+https://www.youtube.com/watch?v=DBpd9e4tJfg
+https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LKCP1C9
+https://www.amazon.com/Gizmo-Dorks-Preapplied-Laminated-Adhesive/dp/B07GSJSDWR
+https://www.amazon.ae/Composition-Notebook-Marvel-Spider-Man-Journal/dp/1711668435
+https://infosecwriteups.com/how-to-route-all-your-traffics-through-tor-in-kali-linux-may-be-linux-arch-without-using-tor-a33b41a75da4
+https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/hip-hop/hip-hop-a-culture-of-vision-and-voice/
+https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+https://traversals.com/blog/social-media-investigations/
+https://thefangirlverdict.com/2020/09/12/review-find-me-in-your-memory/
+https://kpophighindia.com/know-your-k-pop-group-astro/
+https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/product-reviews/B01HP2CEG8
+https://www.theledger.com/picture-gallery/news/local/2020/12/15/covid-19-vaccinations-begin-newport-hospital-photos/3909565001/
+https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/
+https://www.youtube.com/watch?v=K5_D52qYY4M
+https://www.gq.com/story/ceos-are-using-botox-to-not-look-like-sweaty-dorks-during-meetings
+https://mydisneydorks.com/2020/02/09/video-new-monorails-coming-to-tokyo-disneyland-to-being-service-this-spring/
+https://kaizendorks.github.io/tutorials/kubernetes/
+https://aminoapps.com/c/mtg/page/blog/mh2-previews-begin/xpJi_2u6xZ4XGWm7X5Rb548k0QoJRzl
+https://www.instagram.com/jxngkookk/
+https://dentaldorks.com/baby-teeth-roots/
+https://www.wired.com/2008/03/interview-justi/
+https://medium.com/@kunalslab/what-do-you-want-the-highlight-of-your-day-to-be-224b6242a9b4
+https://www.coursehero.com/file/100630193/HOW-TO-MAKE-HQ-DORKS-KEYWORDS-MY-METHODpdf/
+https://www.pinterest.es/pin/174655291788681551/
+https://mutsy.com/when-should-you-start-feeding-a-baby-solid-foods
+https://www.youtube.com/watch?v=k6rx1krSUAo
+https://www.youtube.com/watch?v=x8Vdb_F_wCE
+https://www.dreadcentral.com/reviews/4591/night-of-the-living-dorks-dvd/
+https://www.energyvanguard.com/blog/are-you-a-building-science-geek-nerd-dork-or-dweeb/
+https://m.facebook.com/dinersdriveinsanddorks/photos/a.1045521412180895/3957000304366310/?type=3
+https://www.oreilly.com/live-events/ethical-hacking-and-information-security/0636920261278/0636920261261/
+https://www.goodreads.com/work/quotes/14190669-the-last-guardian
+https://www.amazon.com/product-reviews/B00FG7C5BE
+https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+https://zweiradwiesmayr.at/the-shows-associated-with-website-will-be-the-3/
+https://www.collinsdictionary.com/dictionary/english/dork
+https://dorksdelivered.com.au/it-solutions/how-to-make-a-good-password
+https://www.youtube.com/watch?v=L9LaeCc_dMs
+https://in.pinterest.com/pin/677932550135714424/
+https://www.pinterest.com/pin/233553930655301017/
+https://lmsvoice.com/lesson/dorks/
+https://techhyme.com/google-dorks-tips-for-effective-search-with-google-search-engine/
+https://www.wallarm.com/what/google-dork-concepts-and-commands
+https://cassiusxiii.medium.com/how-to-get-started-in-osint-e99d21833650
+https://pjsins.com/how-to-make-your-own-private-combo/
+2022-03-27 15:10:30,348 [MainThread  ] [INFO] Sleeping 38.6 seconds before executing the next dork search...
+2022-03-27 15:10:57,889 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:10:57.889441
+2022-03-27 15:10:57,905 [MainThread  ] [INFO] Search ( 1 / 12 ) for Google dork [ #####-----YOUR DORKS BEGIN-----##### ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8' through proxy ''
+2022-03-27 15:12:04,470 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:12:04.470049
+2022-03-27 15:12:04,470 [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; ar) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4' through proxy ''
+2022-03-27 15:12:06,173 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 15:12:06,177 [MainThread  ] [INFO] Sleeping 53.7 seconds before executing the next dork search...
+2022-03-27 15:12:59,886 [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.134 Safari/534.16' through proxy ''
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] Results: 100 URLs found for Google dork: intext:"smirutha"
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] dork_urls_list:
+https://www.names.org/n/smirutha/about
+https://www.names.org/n/smirutha/about#pronunciation
+https://www.names.org/n/smirutha/about#associations
+https://www.names.org/n/smirutha/about#fun-facts
+http://www.eazymaths.com/
+https://www.instagram.com/manu.smirutha/
+https://hi-in.facebook.com/public/Smirutha-Sean
+https://hi-in.facebook.com/vinayak.mahadev.1428
+https://hi-in.facebook.com/smirutha.sahana.1
+https://medium.com/@manusmiruthaprasanna
+https://medium.com/@manusmiruthaprasanna/about
+https://medium.com/@manusmiruthaprasanna/following
+https://medium.com/@manusmiruthaprasanna/followers
+https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+https://sharechat.com/post/DQj03dp?d=n
+https://ne-np.facebook.com/public/Smirutha-Sean
+https://ne-np.facebook.com/vinayak.mahadev.1428
+https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+https://ms-my.facebook.com/smirutha.sahana.1
+https://stjosephs.ac.in/IQAC/August%202020.pdf
+https://medium.com/@mohankumarpandiyan/following
+https://medium.com/@AppyZ/following
+https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+https://medium.com/@abimanyu_srikanth/followers
+https://medium.com/@abimanyu_srikanth/about
+https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+https://m.facebook.com/quora/posts/10154273783461974
+https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://ms-my.facebook.com/public/Sukrutha-Sahana
+https://zh-cn.facebook.com/quora/posts/10154273783461974
+https://medium.com/@monikanagpalmakkar/about
+https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+https://www.facebook.com/public/Shaun-Smieja
+https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+https://stjosephs.ac.in/IQAC/July%202020.pdf
+https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+https://sharechat.com/amp/post/K53grvl
+https://sharechat.com/amp/post/Dyy1w1A1
+https://sharechat.com/amp/post/NDV3zde
+https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+https://www.trustpilot.com/review/gossby.com?page=923
+https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?comment_id=642286096400362
+https://zh-cn.facebook.com/groups/viewfrommywindow/posts/665569324072039/?comment_id=682952415667063
+https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+https://www.etsy.com/listing/1096887309/editable-and-customizable-block
+https://sharechat.com/amp/post/kgVeGr0
+https://sharechat.com/amp/post/jkmnyr3
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] Sleeping 51.8 seconds before executing the next dork search...
+2022-03-27 15:33:52,812 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:33:52.812673
+2022-03-27 15:33:52,812 [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; th-th) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8' through proxy ''
+2022-03-27 15:33:54,578 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 15:33:54,585 [MainThread  ] [INFO] Sleeping 58.0 seconds before executing the next dork search...
+2022-03-27 15:34:52,595 [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.6) Gecko/20100628 Ubuntu/10.04 (lucid) Firefox/3.6.6 GTB7.0' through proxy ''
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Results: 100 URLs found for Google dork: intext:"smirutha"
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] dork_urls_list:
+https://www.names.org/n/smirutha/about
+https://www.names.org/n/smirutha/about#pronunciation
+https://www.names.org/n/smirutha/about#associations
+https://www.names.org/n/smirutha/about#fun-facts
+http://www.eazymaths.com/
+https://www.instagram.com/manu.smirutha/
+https://hi-in.facebook.com/public/Smirutha-Sean
+https://hi-in.facebook.com/vinayak.mahadev.1428
+https://hi-in.facebook.com/smirutha.sahana.1
+https://medium.com/@manusmiruthaprasanna
+https://medium.com/@manusmiruthaprasanna/about
+https://medium.com/@manusmiruthaprasanna/following
+https://medium.com/@manusmiruthaprasanna/followers
+https://sharechat.com/post/DQj03dp?d=n
+https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+https://ne-np.facebook.com/public/Smirutha-Sean
+https://ne-np.facebook.com/vinayak.mahadev.1428
+https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+https://ms-my.facebook.com/smirutha.sahana.1
+https://stjosephs.ac.in/IQAC/August%202020.pdf
+https://medium.com/@mohankumarpandiyan/following
+https://medium.com/@AppyZ/following
+https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+https://medium.com/@monikanagpalmakkar/followers
+https://medium.com/@abimanyu_srikanth/followers
+https://medium.com/@mohankumarpandiyan/has-recommended
+https://medium.com/@abimanyu_srikanth/about
+https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+https://m.facebook.com/quora/posts/10154273783461974
+https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://ms-my.facebook.com/public/Sukrutha-Sahana
+https://zh-cn.facebook.com/quora/posts/10154273783461974
+https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+https://medium.com/@monikanagpalmakkar/about
+https://medium.com/@monikanagpalmakkar
+http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+https://www.facebook.com/public/Shaun-Smieja
+https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+https://stjosephs.ac.in/IQAC/July%202020.pdf
+https://sharechat.com/amp/post/Dyy1w1A1
+https://sharechat.com/amp/post/NDV3zde
+https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+https://sharechat.com/amp/post/K53grvl
+https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://sharechat.com/amp/post/kgVeGr0
+https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+https://sharechat.com/amp/post/jkmnyr3
+https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+https://www.trustpilot.com/review/gossby.com?page=923
+https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Sleeping 38.1 seconds before executing the next dork search...
+2022-03-27 15:37:32,650 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:37:32.650212
+2022-03-27 15:37:32,650 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; pl-PL) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1' through proxy ''
+2022-03-27 15:37:35,642 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 15:37:35,642 [MainProcess ] [MainThread  ] [INFO] Sleeping 45.9 seconds before executing the next dork search...
+2022-03-27 15:38:21,546 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8' through proxy ''
+2022-03-27 15:38:24,466 [MainProcess ] [MainThread  ] [INFO] Results: 100 URLs found for Google dork: intext:"smirutha"
+2022-03-27 15:38:24,466 [MainProcess ] [MainThread  ] [INFO] dork_urls_list:
+https://www.names.org/n/smirutha/about
+https://www.names.org/n/smirutha/about#pronunciation
+https://www.names.org/n/smirutha/about#associations
+https://www.names.org/n/smirutha/about#fun-facts
+http://www.eazymaths.com/
+https://www.instagram.com/manu.smirutha/
+https://medium.com/@manusmiruthaprasanna
+https://medium.com/@manusmiruthaprasanna/about
+https://medium.com/@manusmiruthaprasanna/following
+https://medium.com/@manusmiruthaprasanna/followers
+https://hi-in.facebook.com/public/Smirutha-Sean
+https://hi-in.facebook.com/smirutha.sahana.1
+https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+https://sharechat.com/post/DQj03dp?d=n
+https://ne-np.facebook.com/public/Smirutha-Sean
+https://ne-np.facebook.com/vinayak.mahadev.1428
+https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+https://stjosephs.ac.in/IQAC/August%202020.pdf
+https://medium.com/@mohankumarpandiyan/following
+https://medium.com/@AppyZ/following
+https://medium.com/@abimanyu_srikanth/followers
+https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+https://medium.com/@mohankumarpandiyan/followers
+https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+https://hi-in.facebook.com/public/Sahana-Smirk
+https://m.facebook.com/quora/posts/10154273783461974
+https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://ms-my.facebook.com/public/Sukrutha-Sahana
+https://zh-cn.facebook.com/quora/posts/10154273783461974
+https://medium.com/@monikanagpalmakkar/about
+https://medium.com/@monikanagpalmakkar
+https://medium.com/@abimanyu_srikanth/about
+https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+https://www.facebook.com/public/Shaun-Smieja
+https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+https://stjosephs.ac.in/IQAC/July%202020.pdf
+https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+https://sharechat.com/amp/post/K53grvl
+https://sharechat.com/amp/post/Dyy1w1A1
+https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+https://nz.trustpilot.com/review/www.thriftbooks.com?page=4074
+https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://sharechat.com/amp/post/NDV3zde
+https://au.trustpilot.com/review/www.thriftbooks.com?page=4193
+https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+https://www.trustpilot.com/review/gossby.com?page=923
+https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+https://www.etsy.com/listing/1096887309/editable-and-customizable-block
+https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?comment_id=642286096400362
+2022-03-27 15:38:24,466 [MainProcess ] [MainThread  ] [INFO] Sleeping 49.1 seconds before executing the next dork search...
+2022-03-27 15:45:18,476 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:45:18.476809
+2022-03-27 15:45:25,333 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.2.10) Gecko/20100915 Ubuntu/10.04 (lucid) Firefox/3.6.10' through proxy ''
+2022-03-27 15:45:27,152 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 15:45:27,152 [MainProcess ] [MainThread  ] [INFO] Sleeping 47.7 seconds before executing the next dork search...
+2022-03-27 15:46:36,949 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/11.0.672.2 Safari/534.20' through proxy ''
+2022-03-27 15:57:11,091 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T15:57:11.091414
+2022-03-27 15:57:11,091 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Opera/9.80 (Windows NT 5.1; U; cs) Presto/2.7.62 Version/11.01' through proxy ''
+2022-03-27 15:57:12,903 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 15:57:12,908 [MainProcess ] [MainThread  ] [INFO] Sleeping 37.1 seconds before executing the next dork search...
+2022-03-27 15:57:50,024 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Windows NT 5.1; U; pl; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00' through proxy ''
+2022-03-27 16:00:08,288 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T16:00:08.288370
+2022-03-27 16:00:08,288 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Opera/9.80 (X11; Linux i686; U; fr) Presto/2.7.62 Version/11.01' through proxy ''
+2022-03-27 16:00:11,177 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 16:00:11,177 [MainProcess ] [MainThread  ] [INFO] Sleeping 57.3 seconds before executing the next dork search...
+2022-03-27 16:01:08,497 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; ko; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)' through proxy ''
+2022-03-27 16:03:33,723 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T16:03:33.723646
+2022-03-27 16:03:33,723 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2' through proxy ''
+2022-03-27 16:03:35,280 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 16:03:35,280 [MainProcess ] [MainThread  ] [INFO] Sleeping 47.0 seconds before executing the next dork search...
+2022-03-27 16:04:22,286 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/528.4+ (KHTML, like Gecko) Version/4.0dp1 Safari/526.11.2' through proxy ''
+2022-03-27 16:11:15,558 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T16:11:15.558411
+2022-03-27 16:11:15,558 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3' through proxy ''
+2022-03-27 16:11:17,022 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 16:11:17,022 [MainProcess ] [MainThread  ] [INFO] Sleeping 42.0 seconds before executing the next dork search...
+2022-03-27 16:11:59,033 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (iPad; U; CPU OS 3_2_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B500 Safari/53' through proxy ''
+2022-03-27 16:15:41,828 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T16:15:41.828504
+2022-03-27 16:15:41,828 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; es-ES; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 GTB5 (.NET CLR 3.5.30729)' through proxy ''
+2022-03-27 16:15:43,108 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 16:15:43,108 [MainProcess ] [MainThread  ] [INFO] Sleeping 45.3 seconds before executing the next dork search...
+2022-03-27 16:16:28,437 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; ru-RU) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.11 Safari/534.16' through proxy ''
+2022-03-27 17:05:32,173 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T17:05:32.173000
+2022-03-27 17:05:32,173 [MainProcess ] [MainThread  ] [INFO] Total URLs found for the 0 total dorks searched: 0
+2022-03-27 17:05:32,173 [MainProcess ] [MainThread  ] [INFO] Completion timestamp: 2022-03-27T17:05:32.173000
+2022-03-27 17:07:59,458 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T17:07:59.458513
+2022-03-27 17:07:59,459 [MainProcess ] [MainThread  ] [INFO] Total URLs found for the 0 total dorks searched: 0
+2022-03-27 17:07:59,459 [MainProcess ] [MainThread  ] [INFO] Completion timestamp: 2022-03-27T17:07:59.459509
+2022-03-27 17:08:31,642 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T17:08:31.642180
+2022-03-27 17:08:31,643 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.0 Safari/534.13' through proxy ''
+2022-03-27 17:08:33,068 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 17:08:33,070 [MainProcess ] [MainThread  ] [INFO] Sleeping 55.6 seconds before executing the next dork search...
+2022-03-27 17:09:28,682 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.3a5pre) Gecko/20100526 Firefox/3.7a5pre' through proxy ''
+2022-03-27 17:12:24,314 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T17:12:24.314134
+2022-03-27 17:12:24,316 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.11 Safari/534.16' through proxy ''
+2022-03-27 17:12:27,401 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-03-27 17:12:27,405 [MainProcess ] [MainThread  ] [INFO] Sleeping 44.9 seconds before executing the next dork search...
+2022-03-27 17:13:12,331 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1) Gecko/20090624 Ubuntu/8.04 (hardy) Firefox/3.5' through proxy ''
