@@ -284,6 +284,6 @@ Distributed under the GNU General Public License v3.0. See [LICENSE](./LICENSE) 
 
 ## Contact
 
-[@CyberkidAdithya](https://twitter.com/cyberkid05)
+[@Cyberkid Adithya](https://twitter.com/CyberkidA)
 
 Project Link: [https://github.com/opsdisk/pydosc](https://github.com/opsdisk/pydosc)
