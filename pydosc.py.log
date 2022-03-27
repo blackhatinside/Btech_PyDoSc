@@ -1,0 +1,160 @@
+2022-03-26 00:55:43,748 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T00:55:43.748852
+2022-03-26 00:55:43,748 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10' through proxy ''
+2022-03-26 00:55:44,724 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 00:55:44,724 [MainThread  ] [INFO] Sleeping 41.4 seconds before executing the next dork search...
+2022-03-26 00:56:26,143 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/534.16+ (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4' through proxy ''
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] Results: 3 URLs found for Google dork: intitle:index.of people.lst
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/6nsVK5Xi
+https://pastebin.com/Vrwz37kd
+https://pastebin.com/qDAW5LAY
+2022-03-26 00:56:39,685 [MainThread  ] [INFO] Sleeping 41.5 seconds before executing the next dork search...
+2022-03-26 00:57:21,198 [MainThread  ] [INFO] Search ( 3 / 7341 ) for Google dork [ site:pastebin.com index.of.secret ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100404 Ubuntu/10.04 (lucid) Firefox/3.6.3' through proxy ''
+2022-03-26 00:57:57,511 [MainThread  ] [INFO] Results: 11 URLs found for Google dork: index.of.secret
+2022-03-26 00:57:57,512 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/PrpmPSFW
+https://pastebin.com/diff/1ndqG7aq
+https://pastebin.com/kEarUkRz
+https://pastebin.com/N4X0uh4J
+https://pastebin.com/diff/Zc26UMi3
+https://pastebin.com/s34E52pD
+https://pastebin.com/diff/JHgbhTMX
+https://pastebin.com/HbZGf9bC
+https://pastebin.com/xFmzMZ42
+https://pastebin.com/1ndqG7aq
+https://pastebin.com/Zc26UMi3
+2022-03-26 00:57:57,512 [MainThread  ] [INFO] Sleeping 52.8 seconds before executing the next dork search...
+2022-03-26 21:57:36,562 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T21:57:36.562931
+2022-03-26 21:57:36,562 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.1.6) Gecko/20091215 Ubuntu/9.10 (karmic) Firefox/3.5.6' through proxy ''
+2022-03-26 21:57:37,470 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 21:57:37,470 [MainThread  ] [INFO] Sleeping 56.3 seconds before executing the next dork search...
+2022-03-26 21:58:33,783 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 7.1; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C)' through proxy ''
+2022-03-26 21:58:45,051 [MainThread  ] [INFO] Results: 3 URLs found for Google dork: intitle:index.of people.lst
+2022-03-26 21:58:45,051 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/6nsVK5Xi
+https://pastebin.com/Vrwz37kd
+https://pastebin.com/qDAW5LAY
+2022-03-26 21:58:45,051 [MainThread  ] [INFO] Sleeping 40.4 seconds before executing the next dork search...
+2022-03-26 21:59:25,453 [MainThread  ] [INFO] Search ( 3 / 7341 ) for Google dork [ site:pastebin.com index.of.secret ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.0 Safari/534.13' through proxy ''
+2022-03-26 21:59:38,900 [MainThread  ] [INFO] Results: 11 URLs found for Google dork: index.of.secret
+2022-03-26 21:59:38,901 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/PrpmPSFW
+https://pastebin.com/diff/1ndqG7aq
+https://pastebin.com/kEarUkRz
+https://pastebin.com/N4X0uh4J
+https://pastebin.com/diff/Zc26UMi3
+https://pastebin.com/s34E52pD
+https://pastebin.com/diff/JHgbhTMX
+https://pastebin.com/HbZGf9bC
+https://pastebin.com/1ndqG7aq
+https://pastebin.com/xFmzMZ42
+https://pastebin.com/Zc26UMi3
+2022-03-26 21:59:38,901 [MainThread  ] [INFO] Sleeping 59.4 seconds before executing the next dork search...
+2022-03-26 22:00:38,316 [MainThread  ] [INFO] Search ( 4 / 7341 ) for Google dork [ site:pastebin.com index.of.private ] using User-Agent 'Mozilla/5.0 (X11; U; Linux x86_64; pt-BR; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10' through proxy ''
+2022-03-26 22:00:48,918 [MainThread  ] [INFO] Results: 28 URLs found for Google dork: index.of.private
+2022-03-26 22:00:48,923 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/ssu7TENK
+https://pastebin.com/diff/1ndqG7aq
+https://pastebin.com/DhnQC3yU
+https://pastebin.com/qDAW5LAY
+https://pastebin.com/diff/Zc26UMi3
+https://pastebin.com/diff/JHgbhTMX
+https://pastebin.com/PrpmPSFW
+https://pastebin.com/kEarUkRz
+https://pastebin.com/N4X0uh4J
+https://pastebin.com/8W1wCSFf
+https://pastebin.com/b4t7Zb16
+https://pastebin.com/zYPZNbMK
+https://pastebin.com/diff/jMR2ynU3
+https://pastebin.com/SxL81jVK
+https://pastebin.com/fRb6vw01
+https://pastebin.com/PrHScsxW
+https://pastebin.com/V83WagPh
+https://pastebin.com/KvDcw1FC
+https://pastebin.com/xFmzMZ42
+https://pastebin.com/s34E52pD
+https://pastebin.com/Zc26UMi3
+https://pastebin.com/1ndqG7aq
+https://pastebin.com/Hqsxu6Nn
+https://pastebin.com/8gdeLYvU
+https://pastebin.com/kKYEDpc0
+https://pastebin.com/1gdZt6zY
+https://pastebin.com/fqaBBtBr
+https://pastebin.com/Sxcwb1Rf
+2022-03-26 22:00:48,923 [MainThread  ] [INFO] Sleeping 52.1 seconds before executing the next dork search...
+2022-03-26 22:01:41,043 [MainThread  ] [INFO] Search ( 5 / 7341 ) for Google dork [ site:pastebin.com index.of.secure ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14' through proxy ''
+2022-03-26 22:01:57,315 [MainThread  ] [INFO] Results: 1 URLs found for Google dork: index.of.secure
+2022-03-26 22:01:57,315 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/HbZGf9bC
+2022-03-26 22:01:57,315 [MainThread  ] [INFO] Sleeping 37.4 seconds before executing the next dork search...
+2022-03-26 22:02:34,724 [MainThread  ] [INFO] Search ( 6 / 7341 ) for Google dork [ site:pastebin.com index.of.protected ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/7.0.500.0 Safari/534.6' through proxy ''
+2022-03-26 22:09:16,406 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:09:16.406766
+2022-03-26 22:09:16,406 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5' through proxy ''
+2022-03-26 22:10:08,404 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:10:08.404397
+2022-03-26 22:10:08,404 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0b8pre) Gecko/20101213 Firefox/4.0b8pre' through proxy ''
+2022-03-26 22:10:32,530 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:10:32.530116
+2022-03-26 22:10:32,530 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Opera/9.80 (Windows NT 5.1; U; cs) Presto/2.2.15 Version/10.10' through proxy ''
+2022-03-26 22:18:15,756 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:18:15.756249
+2022-03-26 22:18:15,756 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3' through proxy ''
+2022-03-26 22:19:11,462 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:19:11.462081
+2022-03-26 22:19:11,462 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/528.4+ (KHTML, like Gecko) Version/4.0dp1 Safari/526.11.2' through proxy ''
+2022-03-26 22:19:12,423 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 22:19:12,423 [MainThread  ] [INFO] Sleeping 53.6 seconds before executing the next dork search...
+2022-03-26 22:25:12,828 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:25:12.828679
+2022-03-26 22:25:12,828 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; ja; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4 GTB7.1' through proxy ''
+2022-03-26 22:25:13,730 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 22:25:13,733 [MainThread  ] [INFO] Sleeping 59.1 seconds before executing the next dork search...
+2022-03-26 22:36:31,462 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:36:31.462508
+2022-03-26 22:36:31,462 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101213 Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.7.62 Version/11.01' through proxy ''
+2022-03-26 22:36:32,820 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 22:36:32,820 [MainThread  ] [INFO] Sleeping 38.2 seconds before executing the next dork search...
+2022-03-26 22:37:11,022 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.210 Safari/534.10' through proxy ''
+2022-03-26 22:42:54,121 [MainThread  ] [INFO] Initiation timestamp: 2022-03-26T22:42:54.121510
+2022-03-26 22:42:54,121 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; he-il) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5' through proxy ''
+2022-03-26 22:42:55,248 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-26 22:42:55,248 [MainThread  ] [INFO] Sleeping 55.1 seconds before executing the next dork search...
+2022-03-26 22:43:50,357 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/12.0.706.0 Safari/534.25' through proxy ''
+2022-03-26 22:44:04,538 [MainThread  ] [INFO] Results: 3 URLs found for Google dork: intitle:index.of people.lst
+2022-03-26 22:44:04,538 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/6nsVK5Xi
+https://pastebin.com/Vrwz37kd
+https://pastebin.com/qDAW5LAY
+2022-03-26 22:44:04,546 [MainThread  ] [INFO] Sleeping 43.4 seconds before executing the next dork search...
+2022-03-26 22:44:47,959 [MainThread  ] [INFO] Search ( 3 / 7341 ) for Google dork [ site:pastebin.com index.of.secret ] using User-Agent 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; fr-ch) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4' through proxy ''
+2022-03-26 22:44:57,135 [MainThread  ] [INFO] Results: 11 URLs found for Google dork: index.of.secret
+2022-03-26 22:44:57,136 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/PrpmPSFW
+https://pastebin.com/diff/1ndqG7aq
+https://pastebin.com/kEarUkRz
+https://pastebin.com/N4X0uh4J
+https://pastebin.com/diff/Zc26UMi3
+https://pastebin.com/s34E52pD
+https://pastebin.com/diff/JHgbhTMX
+https://pastebin.com/HbZGf9bC
+https://pastebin.com/1ndqG7aq
+https://pastebin.com/xFmzMZ42
+https://pastebin.com/Zc26UMi3
+2022-03-26 22:44:57,146 [MainThread  ] [INFO] Sleeping 45.4 seconds before executing the next dork search...
+2022-03-26 22:45:42,560 [MainThread  ] [INFO] Search ( 4 / 7341 ) for Google dork [ site:pastebin.com index.of.private ] using User-Agent 'Mozilla/5.0 (X11;U; Linux i686; en-GB; rv:1.9.1) Gecko/20090624 Ubuntu/9.04 (jaunty) Firefox/3.5' through proxy ''
+2022-03-27 05:59:42,790 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T05:59:42.790198
+2022-03-27 05:59:42,791 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.2.4) Gecko/20100523 Firefox/3.6.4' through proxy ''
+2022-03-27 05:59:43,840 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-27 05:59:43,840 [MainThread  ] [INFO] Sleeping 52.2 seconds before executing the next dork search...
+2022-03-27 06:00:36,045 [MainThread  ] [INFO] Search ( 2 / 7341 ) for Google dork [ site:pastebin.com intitle:index.of people.lst ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; fi-FI; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8' through proxy ''
+2022-03-27 06:00:44,852 [MainThread  ] [INFO] Results: 3 URLs found for Google dork: intitle:index.of people.lst
+2022-03-27 06:00:44,868 [MainThread  ] [INFO] dork_urls_list:
+https://pastebin.com/6nsVK5Xi
+https://pastebin.com/Vrwz37kd
+https://pastebin.com/qDAW5LAY
+2022-03-27 06:00:44,868 [MainThread  ] [INFO] Sleeping 48.8 seconds before executing the next dork search...
+2022-03-27 06:01:33,676 [MainThread  ] [INFO] Search ( 3 / 7341 ) for Google dork [ site:pastebin.com index.of.secret ] using User-Agent 'Opera/9.80 (Windows NT 6.0; U; de) Presto/2.2.15 Version/10.00' through proxy ''
+2022-03-27 06:15:23,857 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T06:15:23.857844
+2022-03-27 06:15:23,872 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:pastebin.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB6 (.NET CLR 3.5.30729) FBSMTWB' through proxy ''
+2022-03-27 06:15:24,745 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-27 06:15:24,745 [MainThread  ] [INFO] Sleeping 58.9 seconds before executing the next dork search...
+2022-03-27 09:23:17,590 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T09:23:17.590202
+2022-03-27 09:23:17,590 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ site:google.com intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 3.5.30729) FBSMTWB' through proxy ''
+2022-03-27 09:23:18,830 [MainThread  ] [INFO] Results: 0 URLs found for Google dork: intitle:"Ganglia" "Cluster Report for"
+2022-03-27 09:23:18,830 [MainThread  ] [INFO] Sleeping 37.2 seconds before executing the next dork search...
+2022-03-27 09:23:38,329 [MainThread  ] [INFO] Initiation timestamp: 2022-03-27T09:23:38.329238
+2022-03-27 09:23:38,329 [MainThread  ] [INFO] Search ( 1 / 7341 ) for Google dork [ intitle:"Ganglia" "Cluster Report for" ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1' through proxy ''
