@@ -1,7 +1,8 @@
 import pandas as pd
 # from urllib.request import Request, urlopen
 
-link = 'https://www.studentsdatabases.com/wp-content/uploads/2021/11/JEE-Applicants-Samples-2021.xlsx'
+# link = 'https://www.studentsdatabases.com/wp-content/uploads/2021/11/JEE-Applicants-Samples-2021.xlsx'
+link = input("Enter the .xlsx url to scrap: ").strip()
 
 # worksheet = urllib.urlopen(link)
 # with urllib.request.urlopen(link) as worksheet:
