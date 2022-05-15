@@ -10,8 +10,10 @@ import random
 
 # url = 'https://httpbin.org/ip'
 url = 'https://ipinfo.io/json'
-# curl --proxy https://27.254.52.99:8080 https://httpbin.org/ip
-lim = 100
+# DEBUG FROM CMD: curl --proxy https://27.254.52.99:8080 https://httpbin.org/ip
+lim = 5
+isMultithreaded = True
+prevIndex = 0
 
 
 def get_proxies():
@@ -26,10 +28,6 @@ def get_proxies():
 	return list(proxies)	# return list of https proxies
 
 
-#If you are copy pasting proxy ips, put in the list below
-#proxies = ['121.129.127.209:80', '124.41.215.238:45169', '185.93.3.123:8080', '194.182.64.67:3128', '106.0.38.174:8080', '163.172.175.210:3128', '13.92.196.150:8080']
-
-
 proxies = get_proxies()
 print("{} proxies found!\nPROXY LIST: {}".format(len(proxies), proxies))
 proxy_pool = itertools.cycle(proxies)
@@ -38,6 +36,7 @@ proxy_pool = itertools.cycle(proxies)
 def send_requests(proxy_id):
 	global proxies
 	global proxy_pool
+	global prevIndex
 	# proxy = next(proxy_pool)
 	# print(threading.current_thread().name + ": " + "Request #%d"%proxy_id, "going from " + proxy)
 	
@@ -47,41 +46,48 @@ def send_requests(proxy_id):
 		proxyvalue = next(proxy_pool)
 		newproxy = {"https": "https://" + proxyvalue}
 		# print("AAAAA: ", proxyindex, proxyvalue, newproxy, sep="\n")
-		print(threading.current_thread().name + ": " + "Request #%d"%proxy_id, "going from " + proxyvalue)
+		if prevIndex != proxy_id:
+			print(threading.current_thread().name + ": " + "Request #%d"%proxy_id, "going from " + proxyvalue)
+			prevIndex = proxy_id
 		response = requests.get(url, proxies=newproxy, timeout=5)	# 5 sec timeout	
 		print("\nStatus Code: ", response.status_code)
 		print("Client Address: {}\n".format(response.json()['ip']))
+		return 200		# success
 	except Exception as e:
 		# print("BBBBB: Skipping. Connnection error: ", e)
 		print("Skipping current proxy...")
+		return 404		# failure
 
 
 # MULTITHREADING	- Problem: Terminal Freezes during execution
-# def send_requests_odd():
-# 	''' Thread 1 '''
-# 	for proxy_id in range(1, lim, 2):
-# 	#Get a proxy from the pool
-# 		send_requests(proxy_id)
-# def send_requests_even():
-# 	''' Thread 2 '''
-# 	for proxy_id in range(2, lim, 2):
-# 	#Get a proxy from the pool
-# 		send_requests(proxy_id)
-# t1 = threading.Thread(target=send_requests_odd, name="Thread1", args=())
-# t2 = threading.Thread(target=send_requests_even, name="Thread2", args=())
-# t1.start()
-# t2.start()
-# t1.join()
-# t2.join()
+def send_requests_odd():
+	''' Thread 1 '''
+	proxy_id = 1	
+	while proxy_id < lim:
+		#Get a proxy from the pool
+		proxy_id += 2 if send_requests(proxy_id) == 200 else 0
+def send_requests_even():
+	''' Thread 2 '''
+	proxy_id = 2	
+	while proxy_id < lim:
+		#Get a proxy from the pool
+		proxy_id += 2 if send_requests(proxy_id) == 200 else 0
 
 
-for i in range(lim):
-	send_requests(i + 1)
+if isMultithreaded:
+	t1 = threading.Thread(target=send_requests_odd, name="Thread1", args=())
+	t2 = threading.Thread(target=send_requests_even, name="Thread2", args=())
+	t1.start()
+	t2.start()
+	t1.join()
+	t2.join()
+else:
+	index = 0
+	while index < lim:
+		index += send_requests(index + 1) == 200
 
 # FINISHED
 print("\nDone")
-#Most free proxies will often get connection errors. You will have retry the entire request using another proxy to work. 
-#We will just skip retries as its beyond the scope of this tutorial and we are only downloading a single url 
 
 
 '''
