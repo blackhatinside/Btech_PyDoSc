@@ -1086,3 +1086,36 @@
 2022-05-08 12:58:57,081 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
 2022-05-08 12:58:57,081 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
 2022-05-08 12:58:57,767 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-15 18:25:10,123 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:26:13,859 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:27:09,477 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:28:44,001 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:26,777 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:42,530 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:59,656 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:31:08,834 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:31:53,074 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:33:22,868 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:34:28,335 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:07,589 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:25,808 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:31,489 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:53,923 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:37:21,237 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:37:27,880 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:37:27,881 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:39:35,531 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:41:09,381 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:41:09,981 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:41:09,981 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:41:10,751 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-15 18:41:10,752 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-15 18:41:10,754 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-05-15 18:41:21,758 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-15 18:41:21,759 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:41:22,493 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-15 18:42:22,173 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:42:22,564 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:42:22,565 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+filetype%3Aenv&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:42:23,309 [MainThread  ] [INFO] Found unique URL #1: https://github.com/Adithya-HarshaBabu/training/blob/master/.env
+2022-05-15 18:42:23,309 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...

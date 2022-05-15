@@ -1,44 +1,103 @@
-from lxml.html import fromstring
-import requests as req
-from itertools import cycle
+import lxml.html
+import itertools
+import requests
 import traceback
+
+
+import threading
+import random
+
+
+# url = 'https://httpbin.org/ip'
+url = 'https://ipinfo.io/json'
+# DEBUG FROM CMD: curl --proxy https://27.254.52.99:8080 https://httpbin.org/ip
+lim = 5
+isMultithreaded = False
+prevIndex = 0
 
 
 def get_proxies():
 	url = 'https://free-proxy-list.net/'
-	res = req.get(url)
-	parser = fromstring(res.text)
+	response = requests.get(url)
+	parser = lxml.html.fromstring(response.text)
 	proxies = set()
-	for i in parser.xpath('//tbody/tr')[:100]:
-		if i.xpath('.//td[7][contains(text(),"yes")]'):
-			proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
+	for proxy_id in parser.xpath('//tbody/tr')[:100]:
+		if proxy_id.xpath('.//td[7][contains(text(),"yes")]'):
+			proxy = ":".join([proxy_id.xpath('.//td[1]/text()')[0], proxy_id.xpath('.//td[2]/text()')[0]])
 			proxies.add(proxy)
-	return proxies
-
-
-#If you are copy pasting proxy ips, put in the list below
-#proxies = ['121.129.127.209:80', '124.41.215.238:45169', '185.93.3.123:8080', '194.182.64.67:3128', '106.0.38.174:8080', '163.172.175.210:3128', '13.92.196.150:8080']
+	return list(proxies)	# return list of https proxies
 
 
 proxies = get_proxies()
-proxy_pool = cycle(proxies)
-url = 'https://httpbin.org/ip'
-res = None
+print("{} proxies found!\nPROXY LIST: {}".format(len(proxies), proxies))
+proxy_pool = itertools.cycle(proxies)
 
 
-for i in range(1,101):
-#Get a proxy from the pool
-	proxy = next(proxy_pool)
-	print("\nRequest #%d"%i, "going from " + proxy + "\n")
-	proxyAttrib = {"https": "https://" + proxy}
+def send_requests(proxy_id):
+	global proxies
+	global proxy_pool
+	global prevIndex
+	# proxy = next(proxy_pool)
+	# print(threading.current_thread().name + ": " + "Request #%d"%proxy_id, "going from " + proxy)
+	
 	try:
-		res = req.get(url, proxies=proxyAttrib, timeout=3)	# 3 sec
-		print(res.status_code)
-		print(res.json())
+		proxyindex = random.randint(0, len(proxies) - 1)
+		# proxyvalue = proxies[proxyindex]
+		proxyvalue = next(proxy_pool)
+		newproxy = {"https": "https://" + proxyvalue}
+		# print("AAAAA: ", proxyindex, proxyvalue, newproxy, sep="\n")
+		if prevIndex != proxy_id:
+			print(threading.current_thread().name + ": " + "Request #%d"%proxy_id, "going from " + proxyvalue)
+			prevIndex = proxy_id
+		response = requests.get(url, proxies=newproxy, timeout=5)	# 5 sec timeout	
+		print("\nStatus Code: ", response.status_code)
+		print("Client Address: {}\n".format(response.json()['ip']))
+		return 200		# success
 	except Exception as e:
-		print("Error in proxy. Skipping...")
-		pass
+		# print("BBBBB: Skipping. Connnection error: ", e)
+		print("Skipping current proxy...")
+		return 404		# failure
 
-#Most free proxies will often get connection errors. You will have retry the entire request using another proxy to work. 
-#We will just skip retries as its beyond the scope of this tutorial and we are only downloading a single url 
 
+# MULTITHREADING	- Problem: Terminal Freezes during execution
+def send_requests_odd():
+	''' Thread 1 '''
+	proxy_id = 1	
+	while proxy_id < lim:
+		#Get a proxy from the pool
+		proxy_id += 2 if send_requests(proxy_id) == 200 else 0
+def send_requests_even():
+	''' Thread 2 '''
+	proxy_id = 2	
+	while proxy_id < lim:
+		#Get a proxy from the pool
+		proxy_id += 2 if send_requests(proxy_id) == 200 else 0
+
+
+if isMultithreaded:
+	t1 = threading.Thread(target=send_requests_odd, name="Thread1", args=())
+	t2 = threading.Thread(target=send_requests_even, name="Thread2", args=())
+	t1.start()
+	t2.start()
+	t1.join()
+	t2.join()
+else:
+	index = 0
+	while index < lim:
+		index += send_requests(index + 1) == 200
+
+# FINISHED
+print("\nDone")
+
+
+'''
+http_proxy = "http://" + proxies[proxyindex]
+print("\nCURRENT PROXY: ", http_proxy)
+sessionproxies = {'http': http_proxy}
+session = requests.Session()
+session.proxies.update(sessionproxies)
+# Here the proxies will also be automatically used
+# because we have attached those to the session object, 
+# so no need to pass separately in each call
+# print("DDDDD")
+'''
