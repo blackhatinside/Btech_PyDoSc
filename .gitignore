@@ -9,3 +9,5 @@ Reports/
 *.env
 
 .google-cookie
+
+database.ini

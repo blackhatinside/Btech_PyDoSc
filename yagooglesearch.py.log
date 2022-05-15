@@ -1047,3 +1047,42 @@
 2022-03-27 17:15:32,608 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=100&tbs=li:1&safe=off&cr=&filter=0
 2022-03-27 17:15:34,080 [MainThread  ] [WARNING] Google is blocking your IP for making too many requests in a specific time period.
 2022-03-27 17:15:34,080 [MainThread  ] [INFO] Sleeping for 60 minutes...
+2022-04-27 13:24:01,110 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-04-27 13:24:46,370 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:19:41,534 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:19:42,092 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:19:42,098 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:19:42,631 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:19:42,632 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:19:42,634 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-05-08 12:19:56,636 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-08 12:19:56,637 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:19:57,303 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-08 12:20:50,632 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:20:51,090 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:20:51,093 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+filetype%3Aenv&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:20:51,720 [MainThread  ] [INFO] Found unique URL #1: https://github.com/Adithya-HarshaBabu/training/blob/master/.env
+2022-05-08 12:20:51,738 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-05-08 12:22:45,170 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:22:45,856 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:22:45,859 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:22:46,430 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:22:46,432 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:22:46,438 [MainThread  ] [INFO] Sleeping 15 seconds until retrieving the next page of results...
+2022-05-08 12:33:12,736 [MainThread  ] [ERROR] The provided proxy scheme ("186.67.230.45") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:40:24,103 [MainThread  ] [ERROR] The provided proxy scheme ("194.233.69.90") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:50:58,876 [MainThread  ] [ERROR] The provided proxy scheme ("192.155.107.210") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:50:59,724 [MainThread  ] [ERROR] The provided proxy scheme ("200.105.215.18") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:54:51,513 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:54:57,085 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:54:57,085 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:55:56,251 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:58:46,764 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:58:47,318 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:58:47,318 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-05-08 12:58:57,081 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-08 12:58:57,081 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:58:57,767 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...

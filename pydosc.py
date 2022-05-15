@@ -15,10 +15,10 @@ import time
 # Third party Python libraries.
 import yagooglesearch
 
-def dummy():
-    import yagooglesearch
-    return
-dummy()
+# def dummy():
+#     import yagooglesearch
+#     return
+# dummy()
 
 # Custom Python libraries.
 

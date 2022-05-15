@@ -1,10 +1,10 @@
-abhiraamsaravanan inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
-abhiraamsaravanan filetype:env
-intext:"abhiraamsaravanan" filetype:log
-intext:"abhiraamsaravanan" filetype:xslx
-intext:"abhiraamsaravanan"
-inurl:abhiraamsaravanan
-abhiraamsaravanan inurl:/proc/self/cwd
-intitle:abhiraamsaravanan
-intitle:abhiraamsaravanan inurl:ftp
-inanchor:abhiraamsaravanan
+Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+Adithya filetype:env
+intext:"Adithya" filetype:log
+intext:"Adithya" filetype:xslx
+intext:"Adithya"
+inurl:Adithya
+Adithya inurl:/proc/self/cwd
+intitle:Adithya
+intitle:Adithya inurl:ftp
+inanchor:Adithya

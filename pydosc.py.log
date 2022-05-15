@@ -748,3 +748,57 @@ https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?co
 2022-03-27 17:12:27,401 [MainProcess ] [MainThread  ] [INFO] Results: 0 URLs found for Google dork: smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
 2022-03-27 17:12:27,405 [MainProcess ] [MainThread  ] [INFO] Sleeping 44.9 seconds before executing the next dork search...
 2022-03-27 17:13:12,331 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ intext:"smirutha" ] using User-Agent 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1) Gecko/20090624 Ubuntu/8.04 (hardy) Firefox/3.5' through proxy ''
+2022-04-27 13:24:01,106 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-04-27T13:24:01.105433
+2022-04-27 13:24:01,108 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ abhiraamsaravanan inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2b4) Gecko/20091124 Firefox/3.6b4 (.NET CLR 3.5.30729)' through proxy 'http://myproxy:8080'
+2022-04-27 13:24:03,450 [MainProcess ] [MainThread  ] [ERROR] Error with dork: abhiraamsaravanan inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-04-27 13:24:03,452 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DA04A2D840>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')))
+2022-04-27 13:24:03,457 [MainProcess ] [MainThread  ] [INFO] Sleeping 42.9 seconds before executing the next dork search...
+2022-04-27 13:24:46,369 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ abhiraamsaravanan filetype:env ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10' through proxy 'socks5h://127.0.0.1:9050'
+2022-04-27 13:24:48,413 [MainProcess ] [MainThread  ] [ERROR] Error with dork: abhiraamsaravanan filetype:env
+2022-04-27 13:24:48,414 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: SOCKSHTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x000001DA04A2D8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2022-04-27 13:24:48,417 [MainProcess ] [MainThread  ] [INFO] Sleeping 44.6 seconds before executing the next dork search...
+2022-05-08 12:19:41,529 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:19:41.529374
+2022-05-08 12:19:41,532 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; ro; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10' through proxy ''
+2022-05-08 12:19:57,319 [MainProcess ] [MainThread  ] [INFO] Results: 2 URLs found for Google dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:19:57,320 [MainProcess ] [MainThread  ] [INFO] dork_urls_list:
+http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:19:57,322 [MainProcess ] [MainThread  ] [INFO] Sleeping 51.5 seconds before executing the next dork search...
+2022-05-08 12:20:48,832 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ Adithya filetype:env ] using User-Agent 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0; InfoPath.1; SV1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 3.0.04506.30)' through proxy ''
+2022-05-08 12:22:45,166 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:22:45.166614
+2022-05-08 12:22:45,168 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.19 (KHTML, like Gecko) Chrome/11.0.661.0 Safari/534.19' through proxy ''
+2022-05-08 12:27:18,874 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:27:18.874234
+2022-05-08 12:27:18,876 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:27:18,878 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: integer division or modulo by zero
+2022-05-08 12:27:18,881 [MainProcess ] [MainThread  ] [INFO] Sleeping 59.5 seconds before executing the next dork search...
+2022-05-08 12:28:18,390 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya filetype:env
+2022-05-08 12:28:18,391 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: integer division or modulo by zero
+2022-05-08 12:28:18,392 [MainProcess ] [MainThread  ] [INFO] Sleeping 39.0 seconds before executing the next dork search...
+2022-05-08 12:32:34,118 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:32:34.118540
+2022-05-08 12:32:34,119 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:32:34,120 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: 'set' object is not subscriptable
+2022-05-08 12:32:34,123 [MainProcess ] [MainThread  ] [INFO] Sleeping 49.4 seconds before executing the next dork search...
+2022-05-08 12:33:12,734 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:33:12.734758
+2022-05-08 12:40:24,100 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:40:24.100613
+2022-05-08 12:50:44,031 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:50:44.031635
+2022-05-08 12:50:44,047 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:50:44,047 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: 'set' object is not subscriptable
+2022-05-08 12:50:44,047 [MainProcess ] [MainThread  ] [INFO] Sleeping 41.9 seconds before executing the next dork search...
+2022-05-08 12:50:58,876 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:50:58.876042
+2022-05-08 12:50:59,724 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:50:59.724945
+2022-05-08 12:54:51,513 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:54:51.513201
+2022-05-08 12:54:51,513 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Mozilla/5.0 (Windows NT 5.1; U; de; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00' through proxy '66.94.97.238:443'
+2022-05-08 12:55:13,837 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:55:13,837 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0 (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2022-05-08 12:55:13,837 [MainProcess ] [MainThread  ] [INFO] Sleeping 42.4 seconds before executing the next dork search...
+2022-05-08 12:55:56,251 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ Adithya filetype:env ] using User-Agent 'Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; nl-nl) AppleWebKit/533.16 (KHTML, like Gecko) Version/4.1 Safari/533.16' through proxy '3.95.61.16:80'
+2022-05-08 12:55:57,089 [MainProcess ] [MainThread  ] [ERROR] Error with dork: Adithya filetype:env
+2022-05-08 12:55:57,089 [MainProcess ] [MainThread  ] [ERROR] EXCEPTION: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)')))
+2022-05-08 12:55:57,089 [MainProcess ] [MainThread  ] [INFO] If you are using self-signed certificates for an HTTPS proxy, try-rerunning with the -l switch to disable verifying SSL/TLS certificates.  Exiting...
+2022-05-08 12:58:46,764 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-05-08T12:58:46.764710
+2022-05-08 12:58:46,764 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 10 ) for Google dork [ Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx ] using User-Agent 'Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01' through proxy ''
+2022-05-08 12:58:57,767 [MainProcess ] [MainThread  ] [INFO] Results: 2 URLs found for Google dork: Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+2022-05-08 12:58:57,767 [MainProcess ] [MainThread  ] [INFO] dork_urls_list:
+http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:58:57,767 [MainProcess ] [MainThread  ] [INFO] Sleeping 53.6 seconds before executing the next dork search...

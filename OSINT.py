@@ -9,6 +9,36 @@ a_file.close()
 GmailRegex = re.compile(r'\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b')
 PhoneRegex = r'(\+91|91|0)? ?([7-9]\d{9})'
 
+##### PROXY CODE BEGINS #####
+
+from lxml.html import fromstring
+import requests
+from itertools import cycle
+import traceback
+
+def get_proxies():
+	url = 'https://free-proxy-list.net/'
+	response = requests.get(url)
+	parser = fromstring(response.text)
+	proxies = set()
+	for i in parser.xpath('//tbody/tr')[:100]:
+		if i.xpath('.//td[7][contains(text(),"yes")]'):
+			proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
+			proxies.add(proxy)
+	return proxies
+
+#If you are copy pasting proxy ips, put in the list below
+#proxies = ['121.129.127.209:80', '124.41.215.238:45169', '185.93.3.123:8080']
+proxies = get_proxies()
+proxy_pool = cycle(proxies)
+ 
+#Get a proxy from the pool
+# proxy = next(proxy_pool)
+# print("Request #%d"%index + " going from " + proxy)
+# page_data = requests.get(page, proxies={"http": proxy})
+			
+##### PROXY CODE ENDS #####
+
 with open("my_osint_links.txt", encoding="utf8") as fp:
 	page_links = fp.readlines() 
 	for index, page in enumerate(page_links, 1):
@@ -16,11 +46,15 @@ with open("my_osint_links.txt", encoding="utf8") as fp:
 		if index != 11:
 			continue
 		try:
-			page_data = requests.get(page)
+			#Get a proxy from the pool
+			proxy = next(proxy_pool)
+			print("Request #%d"%index + " going from " + proxy)
+			page_data = requests.get(page, proxies={"http": proxy})
 			page_data = page_data.text
 			# print(page_data)	# DEBUG
 		except Exception as e:
-			print("Failed to read page. Skipping...", e)
+			print("Skipping page... Error in reading the page.", e)
+			print("Skipping Current Proxy... Connnection Error!")
 			# soup = BeautifulSoup(page_data, 'html.parser')
 			# print(soup.prettify())
 		outputPhone = re.findall(PhoneRegex, page_data)
