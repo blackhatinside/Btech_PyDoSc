@@ -1,12 +1,10 @@
-#####-----YOUR DORKS BEGIN-----#####
-smirutha inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
-intext:"smirutha"
-intext:"smirutha" filetype:log
-intext:"smirutha" filetype:xslx
-inurl:smirutha
-smirutha inurl:/proc/self/cwd
-intitle:smirutha
-intitle:smirutha inurl:ftp
-inanchor:smirutha
-smirutha filetype:env
-#####-----YOUR DORKS END-----#####
+Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
+Adithya filetype:env
+intext:"Adithya" filetype:log
+intext:"Adithya" filetype:xslx
+intext:"Adithya"
+inurl:Adithya
+Adithya inurl:/proc/self/cwd
+intitle:Adithya
+intitle:Adithya inurl:ftp
+inanchor:Adithya

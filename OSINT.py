@@ -9,52 +9,35 @@ a_file.close()
 GmailRegex = re.compile(r'\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b')
 PhoneRegex = r'(\+91|91|0)? ?([7-9]\d{9})'
 
-'''
-try:
-	#!/usr/bin/env python3
-	import sys
-	import requests
-	import re
+##### PROXY CODE BEGINS #####
 
-	a_file = open("cities.txt", "r")
-	indiancities = [line.strip().lower() for line in a_file]
-	a_file.close()
+from lxml.html import fromstring
+import requests
+from itertools import cycle
+import traceback
 
-	GmailRegex = re.compile(r'\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b')
-	PhoneRegex = r'(\+91|91|0)? ?([7-9]\d{9})'
+def get_proxies():
+	url = 'https://free-proxy-list.net/'
+	response = requests.get(url)
+	parser = fromstring(response.text)
+	proxies = set()
+	for i in parser.xpath('//tbody/tr')[:100]:
+		if i.xpath('.//td[7][contains(text(),"yes")]'):
+			proxy = ":".join([i.xpath('.//td[1]/text()')[0], i.xpath('.//td[2]/text()')[0]])
+			proxies.add(proxy)
+	return proxies
 
-	try:
-		from googlesearch import search
-		from bs4 import BeautifulSoup
-	except ImportError as err:
-		print("Module Error: ", err)
-
-	# to search
-	queries = []
-	try:
-		params = sys.argv[1:]
-		for query in params:
-			query = '"{}"'.format(query)
-			queries.append(query)	
-	except Exception as e:
-		print("Error: ", e)
-
-	queries = " ".join(queries)
-	print("\nSearching for...\n", queries)
-	print() #line break
-
-	page_links = []
-	try:
-		for link in search(queries, tld="co.in", num=10, stop=5, pause=2):
-			page_links.append(link)
-	except:
-		print("Error 2")
-
-	print("\tTop 5 Page Links found:", *page_links, sep = "\n\t\t")
-
-except Exception as e:
-	print("Program Crashed Sucessfully: ", e)
-# '''
+#If you are copy pasting proxy ips, put in the list below
+#proxies = ['121.129.127.209:80', '124.41.215.238:45169', '185.93.3.123:8080']
+proxies = get_proxies()
+proxy_pool = cycle(proxies)
+ 
+#Get a proxy from the pool
+# proxy = next(proxy_pool)
+# print("Request #%d"%index + " going from " + proxy)
+# page_data = requests.get(page, proxies={"http": proxy})
+			
+##### PROXY CODE ENDS #####
 
 with open("my_osint_links.txt", encoding="utf8") as fp:
 	page_links = fp.readlines() 
@@ -63,11 +46,15 @@ with open("my_osint_links.txt", encoding="utf8") as fp:
 		if index != 11:
 			continue
 		try:
-			page_data = requests.get(page)
+			#Get a proxy from the pool
+			proxy = next(proxy_pool)
+			print("Request #%d"%index + " going from " + proxy)
+			page_data = requests.get(page, proxies={"http": proxy})
 			page_data = page_data.text
 			# print(page_data)	# DEBUG
 		except Exception as e:
-			print("Failed to read page. Skipping...", e)
+			print("Skipping page... Error in reading the page.", e)
+			print("Skipping Current Proxy... Connnection Error!")
 			# soup = BeautifulSoup(page_data, 'html.parser')
 			# print(soup.prettify())
 		outputPhone = re.findall(PhoneRegex, page_data)

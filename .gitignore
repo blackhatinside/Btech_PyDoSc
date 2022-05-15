@@ -3,3 +3,11 @@ dorks/
 myvenv/
 LinuxScrap/
 Reports/
+
+*.log
+*.xlsx
+*.env
+
+.google-cookie
+
+database.ini

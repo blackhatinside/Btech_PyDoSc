@@ -1,0 +1,1121 @@
+2022-03-27 15:00:03,855 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:00:04,413 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:00:04,414 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=%23%23%23%23%23-----YOUR+DORKS+BEGIN-----%23%23%23%23%23&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:00:06,195 [MainThread  ] [INFO] Found unique URL #1: https://www.slideshare.net/Simplilearn/google-dorking-tutorial-what-is-google-dorks-and-how-to-use-it-ethical-hacking-simplilearn
+2022-03-27 15:00:06,195 [MainThread  ] [INFO] Found unique URL #2: https://www.youtube.com/watch?v=Jsg9JOyoeg0
+2022-03-27 15:00:06,197 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=Jsg9JOyoeg0
+2022-03-27 15:00:06,201 [MainThread  ] [INFO] Found unique URL #3: https://www.youtube.com/watch?v=zVBCrX-X3c8
+2022-03-27 15:00:06,201 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=zVBCrX-X3c8
+2022-03-27 15:00:06,202 [MainThread  ] [INFO] Found unique URL #4: https://www.youtube.com/watch?v=q30xdbewwVg
+2022-03-27 15:00:06,203 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=q30xdbewwVg
+2022-03-27 15:00:06,204 [MainThread  ] [INFO] Found unique URL #5: https://securitytrails.com/blog/top-shodan-dorks
+2022-03-27 15:00:06,204 [MainThread  ] [INFO] Found unique URL #6: https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+2022-03-27 15:00:06,205 [MainThread  ] [INFO] Found unique URL #7: https://www.dictionary.com/browse/dork
+2022-03-27 15:00:06,206 [MainThread  ] [INFO] Found unique URL #8: https://whatis.techtarget.com/definition/Google-dork-query
+2022-03-27 15:00:06,206 [MainThread  ] [INFO] Duplicate URL found: https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+2022-03-27 15:00:06,207 [MainThread  ] [INFO] Found unique URL #9: https://whatis.techtarget.com/definition/Google-dork
+2022-03-27 15:00:06,208 [MainThread  ] [INFO] Found unique URL #10: https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/
+2022-03-27 15:00:06,209 [MainThread  ] [INFO] Found unique URL #11: https://www.wattpad.com/81343899-drama-dorks-and-football-jocks-let%27s-begin
+2022-03-27 15:00:06,209 [MainThread  ] [INFO] Found unique URL #12: https://in.pinterest.com/pin/1036390932968554176/
+2022-03-27 15:00:06,210 [MainThread  ] [INFO] Found unique URL #13: https://www.quora.com/How-did-you-begin-your-career-as-a-penetration-tester
+2022-03-27 15:00:06,211 [MainThread  ] [INFO] Found unique URL #14: https://variety.com/list_item/snow-white-and-the-seven-dorks/
+2022-03-27 15:00:06,211 [MainThread  ] [INFO] Found unique URL #15: https://gist.github.com/mehdichaouch/9f6ec047d03dc06b6d02aec8507cdeb4
+2022-03-27 15:00:06,212 [MainThread  ] [INFO] Found unique URL #16: https://www.youtube.com/watch?v=LDVqruRsYtA
+2022-03-27 15:00:06,213 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=LDVqruRsYtA
+2022-03-27 15:00:06,213 [MainThread  ] [INFO] Found unique URL #17: https://www.youtube.com/watch?v=BBaInUXAxgU
+2022-03-27 15:00:06,214 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=BBaInUXAxgU
+2022-03-27 15:00:06,215 [MainThread  ] [INFO] Found unique URL #18: https://www.youtube.com/watch?v=yKV-T-HBd3Q
+2022-03-27 15:00:06,216 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=yKV-T-HBd3Q
+2022-03-27 15:00:06,216 [MainThread  ] [INFO] Found unique URL #19: https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+2022-03-27 15:00:06,217 [MainThread  ] [INFO] Found unique URL #20: https://www.linkedin.com/pulse/warehouse-optimization-dorks-seeing-believing-taylor-holbrook
+2022-03-27 15:00:06,218 [MainThread  ] [INFO] Found unique URL #21: https://doordorks.com/blog/
+2022-03-27 15:00:06,219 [MainThread  ] [INFO] Found unique URL #22: https://kpophighindia.com/know-your-k-pop-group-astro/
+2022-03-27 15:00:06,224 [MainThread  ] [INFO] Found unique URL #23: http://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+2022-03-27 15:00:06,225 [MainThread  ] [INFO] Found unique URL #24: https://doordorks.com/garage-door-repair-and-installation-carlsbad-ca/
+2022-03-27 15:00:06,226 [MainThread  ] [INFO] Found unique URL #25: https://www.bugbountyhunter.com/getting-started/
+2022-03-27 15:00:06,226 [MainThread  ] [INFO] Found unique URL #26: https://www.youtube.com/watch?v=z-DtyzhTxHw
+2022-03-27 15:00:06,226 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=z-DtyzhTxHw
+2022-03-27 15:00:06,227 [MainThread  ] [INFO] Found unique URL #27: https://www.kirkusreviews.com/book-reviews/beth-vrabel/pack-of-dorks/
+2022-03-27 15:00:06,228 [MainThread  ] [INFO] Found unique URL #28: https://www.amazon.com/Sports-Dorks-Football-Mike-Leach/dp/0615484972
+2022-03-27 15:00:06,228 [MainThread  ] [INFO] Found unique URL #29: https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LMR5B2W
+2022-03-27 15:00:06,229 [MainThread  ] [INFO] Found unique URL #30: https://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+2022-03-27 15:00:06,229 [MainThread  ] [INFO] Found unique URL #31: http://lea-sander.de/netflix-keywords-for-dorks.html
+2022-03-27 15:00:06,230 [MainThread  ] [INFO] Found unique URL #32: https://www.theledger.com/picture-gallery/news/2017/03/31/jungle-homeless-camp-residents-begin-relocation/99877192/
+2022-03-27 15:00:06,231 [MainThread  ] [INFO] Found unique URL #33: https://in.pinterest.com/pin/478014947950665227/
+2022-03-27 15:00:06,231 [MainThread  ] [INFO] Found unique URL #34: https://www.youtube.com/watch?v=-frtLC24pG8
+2022-03-27 15:00:06,232 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=-frtLC24pG8
+2022-03-27 15:00:06,233 [MainThread  ] [INFO] Found unique URL #35: https://www.youtube.com/watch?v=2zyWkX_8EE8
+2022-03-27 15:00:06,233 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=2zyWkX_8EE8
+2022-03-27 15:00:06,234 [MainThread  ] [INFO] Found unique URL #36: https://www.youtube.com/watch?v=XAnATwNGzTY
+2022-03-27 15:00:06,235 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=XAnATwNGzTY
+2022-03-27 15:00:06,239 [MainThread  ] [INFO] Found unique URL #37: https://www.youtube.com/watch?v=hrVa_dhD-iA
+2022-03-27 15:00:06,240 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=hrVa_dhD-iA
+2022-03-27 15:00:06,241 [MainThread  ] [INFO] Found unique URL #38: https://www.baltimoresun.com/la-et-mn-secret-lives-dorks-review-story.html
+2022-03-27 15:00:06,242 [MainThread  ] [INFO] Found unique URL #39: https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LKCP1C9
+2022-03-27 15:00:06,242 [MainThread  ] [INFO] Found unique URL #40: https://www.amazon.com/Gizmo-Dorks-Preapplied-Laminated-Adhesive/dp/B07GSJSDWR
+2022-03-27 15:00:06,243 [MainThread  ] [INFO] Found unique URL #41: https://infosecwriteups.com/how-to-route-all-your-traffics-through-tor-in-kali-linux-may-be-linux-arch-without-using-tor-a33b41a75da4
+2022-03-27 15:00:06,244 [MainThread  ] [INFO] Found unique URL #42: https://dorkdiaries.fandom.com/wiki/Dork_Diaries:_Tales_from_a_Not-So-Talented_Pop_Star
+2022-03-27 15:00:06,244 [MainThread  ] [INFO] Found unique URL #43: https://traversals.com/blog/social-media-investigations/
+2022-03-27 15:00:06,246 [MainThread  ] [INFO] Found unique URL #44: https://www.youtube.com/watch?v=LoGIjijeVrE
+2022-03-27 15:00:06,246 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=LoGIjijeVrE
+2022-03-27 15:00:06,247 [MainThread  ] [INFO] Found unique URL #45: https://www.amazon.com/Gizmo-Dorks-1-75mm-Filament-Printers/product-reviews/B00FG7BWDQ
+2022-03-27 15:00:06,248 [MainThread  ] [INFO] Found unique URL #46: https://www.amazon.com/Sports-Dorks-College-Football-Ferhat-ebook/dp/B005UHJJJ6
+2022-03-27 15:00:06,249 [MainThread  ] [INFO] Found unique URL #47: https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/product-reviews/B01HP2CEG8
+2022-03-27 15:00:06,249 [MainThread  ] [INFO] Found unique URL #48: https://www.mackincommunity.com/2015/09/29/rachel-renee-russell/
+2022-03-27 15:00:06,250 [MainThread  ] [INFO] Found unique URL #49: https://www.open-contracting.org/2016/11/30/red-flags-integrity-giving-green-light-open-data-solutions/
+2022-03-27 15:00:06,250 [MainThread  ] [INFO] Found unique URL #50: https://www.fosters.com/sitemap/2017/may/4/
+2022-03-27 15:00:06,257 [MainThread  ] [INFO] Found unique URL #51: https://mydisneydorks.com/2021/08/13/video-space-themed-restaurant-coming-to-epcot-gets-september-opening-date/
+2022-03-27 15:00:06,258 [MainThread  ] [INFO] Found unique URL #52: https://www.salary.com/research/company/hourly-wage-for-dorks-discount
+2022-03-27 15:00:06,260 [MainThread  ] [INFO] Found unique URL #53: https://www.oklahoman.com/story/news/2008/05/28/torque-dorks/61587296007/
+2022-03-27 15:00:06,260 [MainThread  ] [INFO] Found unique URL #54: https://dorksdelivered.com.au/blog/internet/
+2022-03-27 15:00:06,261 [MainThread  ] [INFO] Found unique URL #55: https://dorksdelivered.com.au/it-solutions/what-makes-an-effective-it-audit-process
+2022-03-27 15:00:06,262 [MainThread  ] [INFO] Found unique URL #56: https://dorksdelivered.com.au/cybersecurity/14-website-security-measures-to-protect-you-from-hackers
+2022-03-27 15:00:06,262 [MainThread  ] [INFO] Found unique URL #57: https://mutsy.com/when-should-you-start-feeding-a-baby-solid-foods
+2022-03-27 15:00:06,263 [MainThread  ] [INFO] Found unique URL #58: https://www.theledger.com/picture-gallery/news/local/2020/12/15/covid-19-vaccinations-begin-newport-hospital-photos/3909565001/
+2022-03-27 15:00:06,264 [MainThread  ] [INFO] Found unique URL #59: https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+2022-03-27 15:00:06,264 [MainThread  ] [INFO] Found unique URL #60: https://doordorks.com/category/garage-doors/
+2022-03-27 15:00:06,265 [MainThread  ] [INFO] Found unique URL #61: https://www.youtube.com/watch?v=82NW-83uNk8
+2022-03-27 15:00:06,266 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=82NW-83uNk8
+2022-03-27 15:00:06,267 [MainThread  ] [INFO] Found unique URL #62: https://www.youtube.com/watch?v=x8Vdb_F_wCE
+2022-03-27 15:00:06,271 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=x8Vdb_F_wCE
+2022-03-27 15:00:06,271 [MainThread  ] [INFO] Found unique URL #63: https://lmsvoice.com/lesson/dorks/
+2022-03-27 15:00:06,273 [MainThread  ] [INFO] Found unique URL #64: https://www.unigo.com/get-to-college/college-search
+2022-03-27 15:00:06,273 [MainThread  ] [INFO] Found unique URL #65: https://www.wallarm.com/what/google-dork-concepts-and-commands
+2022-03-27 15:00:06,274 [MainThread  ] [INFO] Found unique URL #66: https://dorkdiaries.com/2015/02/when-your-friends-wont-forgive-you/
+2022-03-27 15:00:06,275 [MainThread  ] [INFO] Found unique URL #67: https://www.dreadcentral.com/reviews/4591/night-of-the-living-dorks-dvd/
+2022-03-27 15:00:06,276 [MainThread  ] [INFO] Found unique URL #68: https://www.supercars.net/forum/threads/hondas-suck.146536/page-2
+2022-03-27 15:00:06,276 [MainThread  ] [INFO] Found unique URL #69: https://www.cybereason.com/blog/how-to-generate-a-hypothesis-for-a-threat-hunt-techniques
+2022-03-27 15:00:06,277 [MainThread  ] [INFO] Found unique URL #70: http://duadarasentosa.com/0kdaqo/intext-password.html
+2022-03-27 15:00:06,278 [MainThread  ] [INFO] Found unique URL #71: https://www.amazon.com/product-reviews/B00FG7C5BE
+2022-03-27 15:00:06,278 [MainThread  ] [INFO] Found unique URL #72: https://www.pinterest.com/pin/3-speckles-custom-made-sewn-cushion-mudroom-cushion--689613761702213939/
+2022-03-27 15:00:06,279 [MainThread  ] [INFO] Found unique URL #73: https://www.ipolitics.ca/news/evening-brief-gropes-gods-dorks
+2022-03-27 15:00:06,280 [MainThread  ] [INFO] Found unique URL #74: https://marquettewire.org/3788016/tribune/viewpoints/harper-im-a-dork-youre-a-dork-were-all-dorks-az1-tm2-dac3/
+2022-03-27 15:00:06,281 [MainThread  ] [INFO] Found unique URL #75: https://www.youtube.com/watch?v=L9LaeCc_dMs
+2022-03-27 15:00:06,281 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=L9LaeCc_dMs
+2022-03-27 15:00:06,286 [MainThread  ] [INFO] Found unique URL #76: https://www.youtube.com/watch?v=BS84JiiGs3s
+2022-03-27 15:00:06,288 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=BS84JiiGs3s
+2022-03-27 15:00:06,288 [MainThread  ] [INFO] Found unique URL #77: https://www.pinterest.com/pin/572660908871786350/
+2022-03-27 15:00:06,289 [MainThread  ] [INFO] Found unique URL #78: https://gizmodorks.com/blog/all-about-abs-filament/
+2022-03-27 15:00:06,290 [MainThread  ] [INFO] Found unique URL #79: https://www.amazon.ae/Composition-Notebook-Marvel-Spider-Man-Journal/dp/1711668435
+2022-03-27 15:00:06,291 [MainThread  ] [INFO] Found unique URL #80: https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/hip-hop/hip-hop-a-culture-of-vision-and-voice/
+2022-03-27 15:00:06,291 [MainThread  ] [INFO] Found unique URL #81: https://zweiradwiesmayr.at/the-shows-associated-with-website-will-be-the-3/
+2022-03-27 15:00:06,292 [MainThread  ] [INFO] Found unique URL #82: https://thefangirlverdict.com/2020/09/12/review-find-me-in-your-memory/
+2022-03-27 15:00:06,292 [MainThread  ] [INFO] Found unique URL #83: https://github.com/obheda12/GitDorker
+2022-03-27 15:00:06,293 [MainThread  ] [INFO] Found unique URL #84: https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/
+2022-03-27 15:00:06,293 [MainThread  ] [INFO] Found unique URL #85: https://blog.detectify.com/2020/02/26/gehaxelt-how-wordpress-plugins-leak-sensitive-information-without-you-noticing/
+2022-03-27 15:00:06,294 [MainThread  ] [INFO] Found unique URL #86: https://www.youtube.com/watch?v=K5_D52qYY4M
+2022-03-27 15:00:06,294 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=K5_D52qYY4M
+2022-03-27 15:00:06,295 [MainThread  ] [INFO] Found unique URL #87: https://www.gq.com/story/ceos-are-using-botox-to-not-look-like-sweaty-dorks-during-meetings
+2022-03-27 15:00:06,296 [MainThread  ] [INFO] Found unique URL #88: https://mydisneydorks.com/2020/02/09/video-new-monorails-coming-to-tokyo-disneyland-to-being-service-this-spring/
+2022-03-27 15:00:06,296 [MainThread  ] [INFO] Found unique URL #89: https://kaizendorks.github.io/tutorials/kubernetes/
+2022-03-27 15:00:06,297 [MainThread  ] [INFO] Found unique URL #90: https://aminoapps.com/c/mtg/page/blog/mh2-previews-begin/xpJi_2u6xZ4XGWm7X5Rb548k0QoJRzl
+2022-03-27 15:00:06,298 [MainThread  ] [INFO] Found unique URL #91: https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
+2022-03-27 15:00:06,302 [MainThread  ] [INFO] Found unique URL #92: https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+2022-03-27 15:00:06,302 [MainThread  ] [INFO] Found unique URL #93: https://www.vulture.com/article/super-bowl-halftime-show-past-retro-spectacle.html
+2022-03-27 15:00:06,305 [MainThread  ] [INFO] Found unique URL #94: https://www.instagram.com/jxngkookk/
+2022-03-27 15:00:06,306 [MainThread  ] [INFO] Found unique URL #95: https://dentaldorks.com/baby-teeth-roots/
+2022-03-27 15:00:06,307 [MainThread  ] [INFO] Found unique URL #96: https://www.wired.com/2008/03/interview-justi/
+2022-03-27 15:00:06,307 [MainThread  ] [INFO] Found unique URL #97: https://www.amazon.com/Geek-Shall-Find-Devotions-Everywhere/dp/0736976345
+2022-03-27 15:00:06,308 [MainThread  ] [INFO] Found unique URL #98: https://medium.com/@kunalslab/what-do-you-want-the-highlight-of-your-day-to-be-224b6242a9b4
+2022-03-27 15:00:06,309 [MainThread  ] [INFO] Found unique URL #99: https://www.coursehero.com/file/100630193/HOW-TO-MAKE-HQ-DORKS-KEYWORDS-MY-METHODpdf/
+2022-03-27 15:00:06,309 [MainThread  ] [INFO] Found unique URL #100: https://www.youtube.com/watch?v=DBpd9e4tJfg
+2022-03-27 15:10:28,343 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:10:28,782 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:10:28,782 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=%23%23%23%23%23-----YOUR+DORKS+BEGIN-----%23%23%23%23%23&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:10:30,248 [MainThread  ] [INFO] Found unique URL #1: https://www.youtube.com/watch?v=Jsg9JOyoeg0
+2022-03-27 15:10:30,248 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=Jsg9JOyoeg0
+2022-03-27 15:10:30,248 [MainThread  ] [INFO] Found unique URL #2: https://www.youtube.com/watch?v=zVBCrX-X3c8
+2022-03-27 15:10:30,248 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=zVBCrX-X3c8
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #3: https://www.youtube.com/watch?v=q30xdbewwVg
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=q30xdbewwVg
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #4: https://securitytrails.com/blog/top-shodan-dorks
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #5: https://www.slideshare.net/Simplilearn/google-dorking-tutorial-what-is-google-dorks-and-how-to-use-it-ethical-hacking-simplilearn
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #6: https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #7: https://www.dictionary.com/browse/dork
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #8: https://whatis.techtarget.com/definition/Google-dork-query
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Duplicate URL found: https://www.cybrary.it/blog/0p3n/advanced-google-dorking-commands/
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #9: https://whatis.techtarget.com/definition/Google-dork
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #10: https://www.maltego.com/blog/using-google-dorks-to-support-your-open-source-intelligence-investigations/
+2022-03-27 15:10:30,263 [MainThread  ] [INFO] Found unique URL #11: https://www.wattpad.com/81343899-drama-dorks-and-football-jocks-let%27s-begin
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #12: https://in.pinterest.com/pin/1036390932968554176/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #13: https://gist.github.com/mehdichaouch/9f6ec047d03dc06b6d02aec8507cdeb4
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/watch?v=LDVqruRsYtA
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=LDVqruRsYtA
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #15: https://www.youtube.com/watch?v=z-DtyzhTxHw
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=z-DtyzhTxHw
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #16: https://www.youtube.com/watch?v=BBaInUXAxgU
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=BBaInUXAxgU
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #17: https://www.youtube.com/watch?v=2zyWkX_8EE8
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=2zyWkX_8EE8
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #18: https://www.youtube.com/watch?v=yKV-T-HBd3Q
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=yKV-T-HBd3Q
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #19: https://www.youtube.com/watch?v=hrVa_dhD-iA
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=hrVa_dhD-iA
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #20: https://orwaatyat.medium.com/your-full-map-to-github-recon-and-leaks-exposure-860c37ca2c82
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #21: https://www.quora.com/How-did-you-begin-your-career-as-a-penetration-tester
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #22: https://variety.com/list_item/snow-white-and-the-seven-dorks/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #23: https://www.bugbountyhunter.com/getting-started/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #24: http://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #25: https://www.mackincommunity.com/2015/09/29/rachel-renee-russell/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #26: https://www.kirkusreviews.com/book-reviews/beth-vrabel/pack-of-dorks/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #27: https://doordorks.com/blog/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #28: https://doordorks.com/garage-door-repair-and-installation-carlsbad-ca/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #29: https://mydisneydorks.com/2021/08/13/video-space-themed-restaurant-coming-to-epcot-gets-september-opening-date/
+2022-03-27 15:10:30,270 [MainThread  ] [INFO] Found unique URL #30: https://www.linkedin.com/pulse/warehouse-optimization-dorks-seeing-believing-taylor-holbrook
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #31: https://www.salary.com/research/company/hourly-wage-for-dorks-discount
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #32: https://www.mtv.com/news/2428719/amanda-bynes-leads-the-seven-dorks/
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #33: https://dorksdelivered.com.au/blog/internet/
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #34: https://www.amazon.com/Sports-Dorks-Football-Mike-Leach/dp/0615484972
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #35: https://www.baltimoresun.com/la-et-mn-secret-lives-dorks-review-story.html
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #36: https://dorksdelivered.com.au/it-solutions/what-makes-an-effective-it-audit-process
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #37: https://dorksdelivered.com.au/cybersecurity/14-website-security-measures-to-protect-you-from-hackers
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #38: https://doordorks.com/category/garage-doors/
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #39: https://www.youtube.com/watch?v=82NW-83uNk8
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=82NW-83uNk8
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #40: https://www.youtube.com/watch?v=-frtLC24pG8
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=-frtLC24pG8
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #41: https://www.youtube.com/watch?v=XAnATwNGzTY
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=XAnATwNGzTY
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #42: https://github.com/obheda12/GitDorker
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #43: https://www.unigo.com/get-to-college/college-search
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #44: https://dorkdiaries.com/2015/02/when-your-friends-wont-forgive-you/
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #45: https://www.fosters.com/sitemap/2017/may/4/
+2022-03-27 15:10:30,285 [MainThread  ] [INFO] Found unique URL #46: https://www.supercars.net/forum/threads/hondas-suck.146536/page-2
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #47: https://www.theledger.com/picture-gallery/news/2017/03/31/jungle-homeless-camp-residents-begin-relocation/99877192/
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #48: https://www.cybereason.com/blog/how-to-generate-a-hypothesis-for-a-threat-hunt-techniques
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #49: https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LMR5B2W
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #50: https://www.amazon.com/Gizmo-Dorks-1-75mm-Filament-Printers/product-reviews/B00FG7BWDQ
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #51: https://www.amazon.com/Sports-Dorks-College-Football-Ferhat-ebook/dp/B005UHJJJ6
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #52: https://in.pinterest.com/pin/478014947950665227/
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #53: http://duadarasentosa.com/0kdaqo/intext-password.html
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #54: https://www.oklahoman.com/story/news/2008/05/28/torque-dorks/61587296007/
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #55: https://www.youtube.com/watch?v=LoGIjijeVrE
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=LoGIjijeVrE
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #56: https://www.youtube.com/watch?v=DBpd9e4tJfg
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=DBpd9e4tJfg
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #57: https://www.amazon.com/Gizmo-Dorks-1-75mm-Printer-Filament/dp/B08LKCP1C9
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #58: https://www.amazon.com/Gizmo-Dorks-Preapplied-Laminated-Adhesive/dp/B07GSJSDWR
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #59: https://www.amazon.ae/Composition-Notebook-Marvel-Spider-Man-Journal/dp/1711668435
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #60: https://infosecwriteups.com/how-to-route-all-your-traffics-through-tor-in-kali-linux-may-be-linux-arch-without-using-tor-a33b41a75da4
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #61: https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/hip-hop/hip-hop-a-culture-of-vision-and-voice/
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #62: https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #63: https://traversals.com/blog/social-media-investigations/
+2022-03-27 15:10:30,301 [MainThread  ] [INFO] Found unique URL #64: https://thefangirlverdict.com/2020/09/12/review-find-me-in-your-memory/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #65: https://kpophighindia.com/know-your-k-pop-group-astro/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #66: https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/product-reviews/B01HP2CEG8
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #67: https://www.theledger.com/picture-gallery/news/local/2020/12/15/covid-19-vaccinations-begin-newport-hospital-photos/3909565001/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #68: https://null-byte.wonderhowto.com/how-to/tutorial-create-wordlists-with-crunch-0165931/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #69: https://www.youtube.com/watch?v=K5_D52qYY4M
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=K5_D52qYY4M
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #70: https://www.gq.com/story/ceos-are-using-botox-to-not-look-like-sweaty-dorks-during-meetings
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #71: https://mydisneydorks.com/2020/02/09/video-new-monorails-coming-to-tokyo-disneyland-to-being-service-this-spring/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #72: https://kaizendorks.github.io/tutorials/kubernetes/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #73: https://aminoapps.com/c/mtg/page/blog/mh2-previews-begin/xpJi_2u6xZ4XGWm7X5Rb548k0QoJRzl
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #74: https://www.instagram.com/jxngkookk/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #75: https://dentaldorks.com/baby-teeth-roots/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #76: https://www.wired.com/2008/03/interview-justi/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #77: https://medium.com/@kunalslab/what-do-you-want-the-highlight-of-your-day-to-be-224b6242a9b4
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #78: https://www.coursehero.com/file/100630193/HOW-TO-MAKE-HQ-DORKS-KEYWORDS-MY-METHODpdf/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #79: https://www.pinterest.es/pin/174655291788681551/
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #80: https://mutsy.com/when-should-you-start-feeding-a-baby-solid-foods
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Found unique URL #81: https://www.youtube.com/watch?v=k6rx1krSUAo
+2022-03-27 15:10:30,317 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=k6rx1krSUAo
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #82: https://www.youtube.com/watch?v=x8Vdb_F_wCE
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=x8Vdb_F_wCE
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #83: https://www.dreadcentral.com/reviews/4591/night-of-the-living-dorks-dvd/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #84: https://www.energyvanguard.com/blog/are-you-a-building-science-geek-nerd-dork-or-dweeb/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #85: https://m.facebook.com/dinersdriveinsanddorks/photos/a.1045521412180895/3957000304366310/?type=3
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #86: https://www.oreilly.com/live-events/ethical-hacking-and-information-security/0636920261278/0636920261261/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #87: https://www.goodreads.com/work/quotes/14190669-the-last-guardian
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #88: https://www.amazon.com/product-reviews/B00FG7C5BE
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #89: https://www.amazon.com/Gizmo-Dorks-Adhesive-Transfer-Sheets/dp/B01HP2CEG8
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #90: https://zweiradwiesmayr.at/the-shows-associated-with-website-will-be-the-3/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #91: https://www.collinsdictionary.com/dictionary/english/dork
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #92: https://dorksdelivered.com.au/it-solutions/how-to-make-a-good-password
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #93: https://www.youtube.com/watch?v=L9LaeCc_dMs
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Duplicate URL found: https://www.youtube.com/watch?v=L9LaeCc_dMs
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #94: https://in.pinterest.com/pin/677932550135714424/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #95: https://www.pinterest.com/pin/233553930655301017/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #96: https://lmsvoice.com/lesson/dorks/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #97: https://techhyme.com/google-dorks-tips-for-effective-search-with-google-search-engine/
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #98: https://www.wallarm.com/what/google-dork-concepts-and-commands
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #99: https://cassiusxiii.medium.com/how-to-get-started-in-osint-e99d21833650
+2022-03-27 15:10:30,332 [MainThread  ] [INFO] Found unique URL #100: https://pjsins.com/how-to-make-your-own-private-combo/
+2022-03-27 15:10:57,905 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:10:58,729 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:10:58,729 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=%23%23%23%23%23-----YOUR+DORKS+BEGIN-----%23%23%23%23%23&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:12:04,470 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:12:05,226 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:12:05,227 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:12:06,173 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 15:12:59,886 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:13:00,672 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:13:00,672 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:13:02,106 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 15:13:02,106 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 15:13:02,122 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #26: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #27: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #28: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #30: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #31: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #32: https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #33: https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:13:02,137 [MainThread  ] [INFO] Found unique URL #34: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #35: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #36: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #37: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #38: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #39: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #40: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #41: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #42: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #43: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #44: https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #45: https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #46: https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #47: https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #48: https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+2022-03-27 15:13:02,153 [MainThread  ] [INFO] Found unique URL #49: https://stjosephs.ac.in/IQAC/July%202020.pdf
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #50: https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #51: https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #52: https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #53: https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #54: https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #55: https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #56: https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #57: https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #58: https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #59: https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #60: https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #61: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+2022-03-27 15:13:02,168 [MainThread  ] [INFO] Found unique URL #62: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+2022-03-27 15:13:02,184 [MainThread  ] [INFO] Found unique URL #63: https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+2022-03-27 15:13:02,184 [MainThread  ] [INFO] Found unique URL #64: https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #65: https://sharechat.com/amp/post/K53grvl
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #66: https://sharechat.com/amp/post/Dyy1w1A1
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #67: https://sharechat.com/amp/post/NDV3zde
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #68: https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #69: https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #70: https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #71: https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #72: https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #73: https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #74: https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #75: https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #76: https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #77: https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #78: https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #79: https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #80: https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #81: https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:13:02,191 [MainThread  ] [INFO] Found unique URL #82: https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #83: https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #84: https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #85: https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #86: https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #87: https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #88: https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #89: https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #90: https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #91: https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #92: https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #93: https://www.trustpilot.com/review/gossby.com?page=923
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #94: https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?comment_id=642286096400362
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #95: https://zh-cn.facebook.com/groups/viewfrommywindow/posts/665569324072039/?comment_id=682952415667063
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #96: https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+2022-03-27 15:13:02,206 [MainThread  ] [INFO] Found unique URL #97: https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] Found unique URL #98: https://www.etsy.com/listing/1096887309/editable-and-customizable-block
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] Found unique URL #99: https://sharechat.com/amp/post/kgVeGr0
+2022-03-27 15:13:02,222 [MainThread  ] [INFO] Found unique URL #100: https://sharechat.com/amp/post/jkmnyr3
+2022-03-27 15:33:52,812 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:33:53,676 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:33:53,676 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:33:54,578 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 15:34:52,595 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:34:53,379 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:34:53,379 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #14: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #15: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 15:34:54,702 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@monikanagpalmakkar/followers
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #26: https://medium.com/@mohankumarpandiyan/has-recommended
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #27: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #28: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:34:54,717 [MainThread  ] [INFO] Found unique URL #31: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 15:34:54,733 [MainThread  ] [INFO] Found unique URL #32: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #33: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #34: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #35: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #36: https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #37: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #38: https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #39: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #40: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #41: https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #42: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #43: https://medium.com/@monikanagpalmakkar
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #44: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #45: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #46: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #47: https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #48: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #49: https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+2022-03-27 15:34:54,749 [MainThread  ] [INFO] Found unique URL #50: https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+2022-03-27 15:34:54,764 [MainThread  ] [INFO] Found unique URL #51: https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+2022-03-27 15:34:54,764 [MainThread  ] [INFO] Found unique URL #52: https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #53: https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #54: https://stjosephs.ac.in/IQAC/July%202020.pdf
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #55: https://sharechat.com/amp/post/Dyy1w1A1
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #56: https://sharechat.com/amp/post/NDV3zde
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #57: https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #58: https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #59: https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #60: https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #61: https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #62: https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #63: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #64: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #65: https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #66: https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #67: https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #68: https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #69: https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #70: https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #71: https://sharechat.com/amp/post/K53grvl
+2022-03-27 15:34:54,780 [MainThread  ] [INFO] Found unique URL #72: https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+2022-03-27 15:34:54,796 [MainThread  ] [INFO] Found unique URL #73: https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #74: https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #75: https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #76: https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #77: https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #78: https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #79: https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #80: https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #81: https://sharechat.com/amp/post/kgVeGr0
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #82: https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #83: https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #84: https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #85: https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+2022-03-27 15:34:54,802 [MainThread  ] [INFO] Found unique URL #86: https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+2022-03-27 15:34:54,818 [MainThread  ] [INFO] Found unique URL #87: https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+2022-03-27 15:34:54,818 [MainThread  ] [INFO] Found unique URL #88: https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #89: https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #90: https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #91: https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #92: https://sharechat.com/amp/post/jkmnyr3
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #93: https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #94: https://www.trustpilot.com/review/gossby.com?page=923
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #95: https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #96: https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #97: https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #98: https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #99: https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+2022-03-27 15:34:54,833 [MainThread  ] [INFO] Found unique URL #100: https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+2022-03-27 15:37:32,650 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:37:33,505 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:37:33,505 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:37:35,642 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 15:38:21,546 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:38:22,447 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:38:22,463 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&num=100&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #7: https://medium.com/@manusmiruthaprasanna
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #8: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #9: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #11: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #12: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #13: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #14: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #15: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #17: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #18: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #19: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #20: https://medium.com/@AppyZ/following
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #22: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #23: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 15:38:24,350 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@mohankumarpandiyan/followers
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #25: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #26: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #27: https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #28: https://hi-in.facebook.com/public/Sahana-Smirk
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #31: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #32: https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #33: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 15:38:24,366 [MainThread  ] [INFO] Found unique URL #34: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:38:24,381 [MainThread  ] [INFO] Found unique URL #35: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 15:38:24,381 [MainThread  ] [INFO] Found unique URL #36: https://medium.com/@monikanagpalmakkar
+2022-03-27 15:38:24,381 [MainThread  ] [INFO] Found unique URL #37: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 15:38:24,381 [MainThread  ] [INFO] Found unique URL #38: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #39: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #40: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #41: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #42: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #43: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #44: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #45: https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+2022-03-27 15:38:24,397 [MainThread  ] [INFO] Found unique URL #46: https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #47: https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #48: https://ne-np.facebook.com/photo/?fbid=10205950315741372&set=ecnf.1364148204
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #49: https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #50: https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #51: https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #52: https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #53: https://stjosephs.ac.in/IQAC/July%202020.pdf
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #54: https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #55: https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #56: https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #57: https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #58: https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #59: https://m.facebook.com/groups/viewfrommywindow/permalink/623959531566352/?comment_id=625115681450737
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #60: https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #61: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #62: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #63: https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #64: https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #65: https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #66: https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #67: https://sharechat.com/amp/post/K53grvl
+2022-03-27 15:38:24,403 [MainThread  ] [INFO] Found unique URL #68: https://sharechat.com/amp/post/Dyy1w1A1
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #69: https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #70: https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #71: https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #72: https://nz.trustpilot.com/review/www.thriftbooks.com?page=4074
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #73: https://fdocuments.in/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #74: https://sharechat.com/amp/post/NDV3zde
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #75: https://au.trustpilot.com/review/www.thriftbooks.com?page=4193
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #76: https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+2022-03-27 15:38:24,419 [MainThread  ] [INFO] Found unique URL #77: https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+2022-03-27 15:38:24,435 [MainThread  ] [INFO] Found unique URL #78: https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+2022-03-27 15:38:24,435 [MainThread  ] [INFO] Found unique URL #79: https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #80: https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #81: https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #82: https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #83: https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #84: https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #85: https://www.etsy.com/listing/1025027495/editable-8th-birthday-invitation
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #86: https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #87: https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #88: https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #89: https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #90: https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #91: https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #92: https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #93: https://www.trustpilot.com/review/gossby.com?page=923
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #94: https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #95: https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #96: https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #97: https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #98: https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #99: https://www.etsy.com/listing/1096887309/editable-and-customizable-block
+2022-03-27 15:38:24,450 [MainThread  ] [INFO] Found unique URL #100: https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?comment_id=642286096400362
+2022-03-27 15:45:25,349 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:45:26,188 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:45:26,188 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:45:27,152 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 15:46:36,949 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:46:37,819 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:46:37,819 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 15:46:38,705 [MainThread  ] [INFO] Sleeping 13 seconds until retrieving the next page of results...
+2022-03-27 15:46:51,705 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 15:46:51,705 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:46:52,691 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 15:46:52,691 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 15:46:52,691 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 15:46:52,691 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 15:46:52,707 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 15:47:06,719 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=23 / max_search_result_urls_to_return=100
+2022-03-27 15:47:06,719 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:47:07,630 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@monikanagpalmakkar/followers
+2022-03-27 15:47:07,630 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 15:47:07,633 [MainThread  ] [INFO] Found unique URL #26: https://medium.com/@mohankumarpandiyan/has-recommended
+2022-03-27 15:47:07,633 [MainThread  ] [INFO] Found unique URL #27: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 15:47:07,633 [MainThread  ] [INFO] Found unique URL #28: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 15:47:07,634 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 15:47:07,634 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 15:47:07,635 [MainThread  ] [INFO] Found unique URL #31: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 15:47:07,635 [MainThread  ] [INFO] Found unique URL #32: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 15:47:07,636 [MainThread  ] [INFO] Found unique URL #33: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 15:47:07,636 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 15:57:11,091 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:57:12,052 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:57:12,056 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:57:12,903 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 15:57:50,024 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 15:57:50,773 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 15:57:50,773 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 15:57:51,705 [MainThread  ] [INFO] Sleeping 16 seconds until retrieving the next page of results...
+2022-03-27 15:58:07,711 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 15:58:07,711 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #18: https://ne-np.facebook.com/smirutha.ra.5
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #19: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 15:58:08,919 [MainThread  ] [INFO] Sleeping 17 seconds until retrieving the next page of results...
+2022-03-27 16:00:08,288 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:00:09,227 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:00:09,227 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:00:11,177 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 16:01:08,497 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:01:09,230 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:01:09,230 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 16:01:10,116 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 16:01:10,131 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 16:01:20,132 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 16:01:20,132 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 16:01:21,018 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 16:01:21,034 [MainThread  ] [INFO] Sleeping 7 seconds until retrieving the next page of results...
+2022-03-27 16:01:28,044 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=23 / max_search_result_urls_to_return=100
+2022-03-27 16:01:28,044 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #26: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #27: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #28: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #30: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 16:01:28,992 [MainThread  ] [INFO] Found unique URL #31: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 16:01:29,008 [MainThread  ] [INFO] Found unique URL #32: https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 16:01:29,014 [MainThread  ] [INFO] Found unique URL #33: https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 16:01:29,014 [MainThread  ] [INFO] Sleeping 7 seconds until retrieving the next page of results...
+2022-03-27 16:03:33,723 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:03:34,425 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:03:34,425 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:03:35,280 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 16:04:22,286 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:04:23,118 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:04:23,118 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 16:04:24,088 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 16:04:24,104 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 16:04:24,104 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 16:04:34,125 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 16:04:34,125 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:04:35,127 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 16:04:35,127 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 16:04:35,127 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 16:04:35,143 [MainThread  ] [INFO] Sleeping 17 seconds until retrieving the next page of results...
+2022-03-27 16:04:52,154 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=23 / max_search_result_urls_to_return=100
+2022-03-27 16:04:52,154 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:04:53,133 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 16:04:53,133 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@mohankumarpandiyan/has-recommended
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #26: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #27: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #28: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #31: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #32: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Found unique URL #33: https://www.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 16:04:53,140 [MainThread  ] [INFO] Sleeping 16 seconds until retrieving the next page of results...
+2022-03-27 16:05:09,154 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=33 / max_search_result_urls_to_return=100
+2022-03-27 16:05:09,154 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=30&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:05:10,003 [MainThread  ] [INFO] Found unique URL #34: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 16:05:10,003 [MainThread  ] [INFO] Found unique URL #35: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:05:10,003 [MainThread  ] [INFO] Found unique URL #36: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 16:05:10,003 [MainThread  ] [INFO] Found unique URL #37: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 16:05:10,018 [MainThread  ] [INFO] Found unique URL #38: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Found unique URL #39: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Found unique URL #40: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Found unique URL #41: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Found unique URL #42: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Found unique URL #43: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 16:05:10,025 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-03-27 16:05:21,035 [MainThread  ] [INFO] Stats: start=40, num=10, total_valid_links_found=43 / max_search_result_urls_to_return=100
+2022-03-27 16:05:21,035 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=40&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:05:22,159 [MainThread  ] [INFO] Duplicate URL found: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 16:05:22,159 [MainThread  ] [INFO] Duplicate URL found: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Duplicate URL found: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Duplicate URL found: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Found unique URL #44: https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Duplicate URL found: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Found unique URL #45: https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Found unique URL #46: https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Found unique URL #47: https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Found unique URL #48: https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+2022-03-27 16:05:22,175 [MainThread  ] [INFO] Sleeping 15 seconds until retrieving the next page of results...
+2022-03-27 16:05:37,182 [MainThread  ] [INFO] Stats: start=50, num=10, total_valid_links_found=48 / max_search_result_urls_to_return=100
+2022-03-27 16:05:37,182 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=50&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:05:37,951 [MainThread  ] [INFO] Found unique URL #49: https://stjosephs.ac.in/IQAC/July%202020.pdf
+2022-03-27 16:05:37,951 [MainThread  ] [INFO] Found unique URL #50: https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+2022-03-27 16:05:37,951 [MainThread  ] [INFO] Found unique URL #51: https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+2022-03-27 16:05:37,951 [MainThread  ] [INFO] Found unique URL #52: https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #53: https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #54: https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #55: https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #56: https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #57: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Found unique URL #58: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+2022-03-27 16:05:37,967 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 16:05:51,975 [MainThread  ] [INFO] Stats: start=60, num=10, total_valid_links_found=58 / max_search_result_urls_to_return=100
+2022-03-27 16:05:51,975 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=60&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:05:52,961 [MainThread  ] [WARNING] Google is blocking your IP for making too many requests in a specific time period.
+2022-03-27 16:05:52,961 [MainThread  ] [INFO] Sleeping for 60 minutes...
+2022-03-27 16:11:15,558 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:11:16,058 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:11:16,058 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:11:17,022 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 16:11:59,033 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:11:59,402 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:11:59,402 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:12:00,166 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 16:12:00,166 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#associations
+2022-03-27 16:12:00,166 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 16:12:00,181 [MainThread  ] [INFO] Sleeping 13 seconds until retrieving the next page of results...
+2022-03-27 16:12:13,196 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=3 / max_search_result_urls_to_return=100
+2022-03-27 16:12:13,196 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:12:14,564 [MainThread  ] [INFO] Found unique URL #4: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 16:12:14,568 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 16:12:24,576 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=4 / max_search_result_urls_to_return=100
+2022-03-27 16:12:24,576 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:12:26,467 [MainThread  ] [INFO] Found unique URL #5: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 16:12:26,467 [MainThread  ] [INFO] Found unique URL #6: https://medium.com/@mohankumarpandiyan/has-recommended
+2022-03-27 16:12:26,467 [MainThread  ] [INFO] Found unique URL #7: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 16:12:26,478 [MainThread  ] [INFO] Found unique URL #8: https://medium.com/@mohankumarpandiyan/followers
+2022-03-27 16:12:26,478 [MainThread  ] [INFO] Found unique URL #9: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 16:12:26,478 [MainThread  ] [INFO] Found unique URL #10: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:12:26,480 [MainThread  ] [INFO] Found unique URL #11: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 16:12:26,480 [MainThread  ] [INFO] Found unique URL #12: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 16:12:26,491 [MainThread  ] [INFO] Found unique URL #13: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 16:12:26,491 [MainThread  ] [INFO] Found unique URL #14: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 16:12:26,491 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-03-27 16:12:37,495 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=14 / max_search_result_urls_to_return=100
+2022-03-27 16:12:37,495 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=30&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:12:38,525 [MainThread  ] [INFO] Found unique URL #15: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:12:38,525 [MainThread  ] [INFO] Found unique URL #16: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 16:12:38,529 [MainThread  ] [INFO] Found unique URL #17: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 16:12:38,537 [MainThread  ] [INFO] Found unique URL #18: https://m.facebook.com/dankpondy/posts/d41d8cd9/782312898846622/
+2022-03-27 16:12:38,537 [MainThread  ] [INFO] Found unique URL #19: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 16:12:38,539 [MainThread  ] [INFO] Found unique URL #20: https://ms-my.facebook.com/nytimes/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 16:12:38,546 [MainThread  ] [INFO] Found unique URL #21: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 16:12:38,547 [MainThread  ] [INFO] Found unique URL #22: https://nz.trustpilot.com/review/www.thriftbooks.com?page=4072
+2022-03-27 16:12:38,547 [MainThread  ] [INFO] Found unique URL #23: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 16:12:38,547 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@monikanagpalmakkar
+2022-03-27 16:12:38,547 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 16:15:41,828 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:15:42,407 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:15:42,407 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:15:43,108 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 16:16:28,437 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 16:16:29,016 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 16:16:29,016 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 16:16:29,655 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 16:16:29,671 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 16:16:29,671 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 16:16:43,678 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 16:16:43,678 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 16:16:44,410 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-03-27 16:16:55,415 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=23 / max_search_result_urls_to_return=100
+2022-03-27 16:16:55,415 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 16:16:56,069 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 16:16:56,069 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@mohankumarpandiyan/has-recommended
+2022-03-27 16:16:56,069 [MainThread  ] [INFO] Found unique URL #26: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #27: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #28: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #29: https://m.facebook.com/quora/posts/10154273783461974
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/groups/viewfrommywindow/permalink/600314097264229/?comment_id=796516284310675
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #31: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #32: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Found unique URL #33: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 16:16:56,085 [MainThread  ] [INFO] Sleeping 13 seconds until retrieving the next page of results...
+2022-03-27 17:08:31,644 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 17:08:32,177 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 17:08:32,177 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:08:33,068 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 17:09:28,682 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 17:09:29,068 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 17:09:29,068 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #5: https://www.instagram.com/manu.smirutha/
+2022-03-27 17:09:30,933 [MainThread  ] [INFO] Found unique URL #6: http://www.eazymaths.com/
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #7: https://medium.com/@manusmiruthaprasanna
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #8: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #9: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #11: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #12: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Found unique URL #13: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 17:09:30,948 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 17:09:40,951 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 17:09:40,951 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #14: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #15: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/smirutha.ra.5
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #18: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #19: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #20: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@AppyZ/following
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #22: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 17:09:42,638 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-03-27 17:12:24,317 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 17:12:25,286 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 17:12:25,286 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=smirutha+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:12:27,401 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-03-27 17:13:12,331 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-03-27 17:13:12,993 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-03-27 17:13:12,995 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:13:14,432 [MainThread  ] [INFO] Found unique URL #1: https://www.names.org/n/smirutha/about
+2022-03-27 17:13:14,432 [MainThread  ] [INFO] Found unique URL #2: https://www.names.org/n/smirutha/about#pronunciation
+2022-03-27 17:13:14,432 [MainThread  ] [INFO] Found unique URL #3: https://www.names.org/n/smirutha/about#associations
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #4: https://www.names.org/n/smirutha/about#fun-facts
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #5: http://www.eazymaths.com/
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/manu.smirutha/
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #7: https://hi-in.facebook.com/public/Smirutha-Sean
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #8: https://hi-in.facebook.com/vinayak.mahadev.1428
+2022-03-27 17:13:14,447 [MainThread  ] [INFO] Found unique URL #9: https://hi-in.facebook.com/smirutha.sahana.1
+2022-03-27 17:13:14,463 [MainThread  ] [INFO] Found unique URL #10: https://medium.com/@manusmiruthaprasanna
+2022-03-27 17:13:14,463 [MainThread  ] [INFO] Found unique URL #11: https://medium.com/@manusmiruthaprasanna/about
+2022-03-27 17:13:14,463 [MainThread  ] [INFO] Found unique URL #12: https://medium.com/@manusmiruthaprasanna/following
+2022-03-27 17:13:14,478 [MainThread  ] [INFO] Found unique URL #13: https://medium.com/@manusmiruthaprasanna/followers
+2022-03-27 17:13:14,478 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 17:13:24,480 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=13 / max_search_result_urls_to_return=100
+2022-03-27 17:13:24,480 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:13:26,620 [MainThread  ] [INFO] Found unique URL #14: https://www.youtube.com/channel/UCBj0X351AGrd_QSXH8sTgKg
+2022-03-27 17:13:26,620 [MainThread  ] [INFO] Found unique URL #15: https://sharechat.com/post/DQj03dp?d=n
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #16: https://ne-np.facebook.com/public/Smirutha-Sean
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #17: https://ne-np.facebook.com/vinayak.mahadev.1428
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #18: https://unearththemoon.com/2014/02/13/struggles-in-india-from-west/comment-page-1/
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #19: https://ms-my.facebook.com/smirutha.sahana.1
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #20: https://stjosephs.ac.in/IQAC/August%202020.pdf
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #21: https://medium.com/@mohankumarpandiyan/following
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #22: https://medium.com/@AppyZ/following
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Found unique URL #23: https://www.instagram.com/p/CUkf3a1BHFL/?hl=en
+2022-03-27 17:13:26,636 [MainThread  ] [INFO] Sleeping 7 seconds until retrieving the next page of results...
+2022-03-27 17:13:33,643 [MainThread  ] [INFO] Stats: start=20, num=10, total_valid_links_found=23 / max_search_result_urls_to_return=100
+2022-03-27 17:13:33,643 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=20&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:13:35,879 [MainThread  ] [INFO] Found unique URL #24: https://medium.com/@monikanagpalmakkar/followers
+2022-03-27 17:13:35,879 [MainThread  ] [INFO] Found unique URL #25: https://medium.com/@abimanyu_srikanth/followers
+2022-03-27 17:13:35,879 [MainThread  ] [INFO] Found unique URL #26: https://medium.com/@mohankumarpandiyan/followers
+2022-03-27 17:13:35,879 [MainThread  ] [INFO] Found unique URL #27: https://medium.com/@abimanyu_srikanth/about
+2022-03-27 17:13:35,879 [MainThread  ] [INFO] Found unique URL #28: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Found unique URL #29: https://fr-fr.facebook.com/quora/posts/i-cant-reveal-too-much-but-it-was-an-incredible-experience-people-were-gasping-s/10154273783461974/
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Found unique URL #30: https://m.facebook.com/282160215457437/photos/a.286158785057580/292748391065286/?type=3
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Found unique URL #31: https://stjosephs.ac.in/Daily/L&T%20Technology%20Services%20%2023%20%2012.pdf
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Found unique URL #32: https://www.facebook.com/BuzzFeed/posts/yes-to-all-of-these/10160608067190329/
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Found unique URL #33: https://hi-in.facebook.com/public/Sahana-Smirk
+2022-03-27 17:13:35,895 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 17:13:45,908 [MainThread  ] [INFO] Stats: start=30, num=10, total_valid_links_found=33 / max_search_result_urls_to_return=100
+2022-03-27 17:13:45,908 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=30&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:13:48,108 [MainThread  ] [INFO] Found unique URL #34: https://ms-my.facebook.com/public/Sukrutha-Sahana
+2022-03-27 17:13:48,108 [MainThread  ] [INFO] Duplicate URL found: https://zh-cn.facebook.com/quora/posts/10154273783461974
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #35: https://medium.com/@monikanagpalmakkar/about
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #36: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #37: https://m.facebook.com/public/Sukrutha-Smita?locale=ne_NP&_rdr
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #38: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #39: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #40: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #41: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Found unique URL #42: https://es-la.facebook.com/5281959998/posts/what-its-like-to-run-the-tcs-new-york-city-marathon-heres-a-look-at-the-sights-a/10151737035604999/
+2022-03-27 17:13:48,123 [MainThread  ] [INFO] Sleeping 17 seconds until retrieving the next page of results...
+2022-03-27 17:14:05,135 [MainThread  ] [INFO] Stats: start=40, num=10, total_valid_links_found=42 / max_search_result_urls_to_return=100
+2022-03-27 17:14:05,135 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=40&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:14:07,376 [MainThread  ] [INFO] Duplicate URL found: https://m.facebook.com/groups/viewfrommywindow/permalink/604841190144853/?comment_id=608999446395694
+2022-03-27 17:14:07,376 [MainThread  ] [INFO] Duplicate URL found: http://www.itestweb.in/pdy57/sites/default/files/11-27-lawspet-eng_1.pdf
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Duplicate URL found: https://www.facebook.com/groups/viewfrommywindow/permalink/598341447461494/?comment_id=788477011781269
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Duplicate URL found: https://www.facebook.com/public/Shaun-Smieja
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Found unique URL #43: https://www.facebook.com/groups/viewfrommywindow/posts/586301051998867/?comment_id=752683235360647
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Duplicate URL found: https://www.etsy.com/listing/931944256/editable-30th-birthday-party-digital
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Found unique URL #44: https://www.etsy.com/listing/1080785979/watercolor-birthday-cake-with-flowers
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Found unique URL #45: https://docplayer.net/196932826-St-joseph-s-college-of-engineering-st-joseph-s-group-of-institutions-omr-chennai-119.html
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Found unique URL #46: https://www.egazette.kerala.gov.in/pdf/2013/2/Part_4/change_name.pdf
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Found unique URL #47: https://stjosephs.ac.in/IQAC/Overall%20April.pdf
+2022-03-27 17:14:07,392 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-03-27 17:14:21,402 [MainThread  ] [INFO] Stats: start=50, num=10, total_valid_links_found=47 / max_search_result_urls_to_return=100
+2022-03-27 17:14:21,402 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=50&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:14:23,558 [MainThread  ] [INFO] Found unique URL #48: https://stjosephs.ac.in/IQAC/July%202020.pdf
+2022-03-27 17:14:23,558 [MainThread  ] [INFO] Found unique URL #49: https://www.facebook.com/groups/291392748267967/posts/1057849621622272/
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #50: https://www.facebook.com/groups/viewfrommywindow/posts/1236802103615422/?comment_id=1238404343455198
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #51: https://www.facebook.com/groups/viewfrommywindow/posts/1241922329770066/?comment_id=1242383339723965
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #52: https://www.facebook.com/groups/viewfrommywindow/posts/1154878998474400/?comment_id=1154945095134457
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #53: https://m.facebook.com/groups/viewfrommywindow/permalink/658629244766047/?comment_id=767990877163216
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #54: https://m.facebook.com/groups/viewfrommywindow/permalink/611747952787510/?comment_id=841424613153175
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #55: https://www.etsy.com/ie/listing/1086970997/editable-and-customizable-join-us-fall?click_key=9df581bc3edf144bb5a8aba925b96341cde2d8d6%3A1086970997&click_sum=dd30c23a&ref=sold_out-6
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #56: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/reviews/7231779
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Found unique URL #57: https://www.urbanpro.com/chennai/eazy-maths-coaching-academy-ambattur-west/3088660
+2022-03-27 17:14:23,574 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-03-27 17:14:33,574 [MainThread  ] [INFO] Stats: start=60, num=10, total_valid_links_found=57 / max_search_result_urls_to_return=100
+2022-03-27 17:14:33,574 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=60&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:14:36,110 [MainThread  ] [INFO] Found unique URL #58: https://ro-ro.facebook.com/photo/?fbid=10202454317023589&set=ecnf.1364148204
+2022-03-27 17:14:36,110 [MainThread  ] [INFO] Found unique URL #59: https://www.etsy.com/il-en/listing/1060799919/chillin-and-grillin-bbq-editable-and
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #60: https://www.etsy.com/listing/1175712471/our-new-home-housewarming-invitation?gpla=1&gao=1&
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #61: https://uk.trustpilot.com/review/www.thriftbooks.com?page=3738
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #62: https://sharechat.com/amp/post/K53grvl
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #63: https://sharechat.com/amp/post/Dyy1w1A1
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #64: https://sharechat.com/amp/post/NDV3zde
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #65: https://m.facebook.com/groups/viewfrommywindow/permalink/655813488380956/?comment_id=749600689002235
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #66: https://www.facebook.com/groups/viewfrommywindow/permalink/588816168414022/?comment_id=759287291366908
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Found unique URL #67: https://www.facebook.com/groups/viewfrommywindow/permalink/658772114751760/
+2022-03-27 17:14:36,126 [MainThread  ] [INFO] Sleeping 16 seconds until retrieving the next page of results...
+2022-03-27 17:14:52,139 [MainThread  ] [INFO] Stats: start=70, num=10, total_valid_links_found=67 / max_search_result_urls_to_return=100
+2022-03-27 17:14:52,139 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=70&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #68: https://www.etsy.com/listing/1175256323/dinosaur-theme-birthday-party-invitation
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #69: https://www.etsy.com/listing/1161295100/dessert-party-editable-invitation
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #70: https://www.etsy.com/listing/1058372615/we-have-opened-a-new-door-editable-and
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #71: https://www.etsy.com/listing/1174552177/easter-brunch-and-egg-hunt-invitation
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #72: https://www.etsy.com/listing/893070687/modern-editable-save-the-date-invitation
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #73: https://www.etsy.com/listing/1044393012/lets-party-editable-and-customizable
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #74: https://www.etsy.com/listing/1146504653/we-have-a-little-cub-on-the-way-baby?gpla=1&gao=1&
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #75: https://documents.pub/document/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #76: https://dokumen.tips/documents/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 17:14:53,094 [MainThread  ] [INFO] Found unique URL #77: https://hr-hr.facebook.com/groups/viewfrommywindow/permalink/602702310358741/?comment_id=797680127527624
+2022-03-27 17:14:53,110 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-03-27 17:15:02,112 [MainThread  ] [INFO] Stats: start=80, num=10, total_valid_links_found=77 / max_search_result_urls_to_return=100
+2022-03-27 17:15:02,112 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=80&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:15:04,299 [MainThread  ] [INFO] Found unique URL #78: https://www.etsy.com/listing/1098373791/old-fashion-good-time-editable
+2022-03-27 17:15:04,315 [MainThread  ] [INFO] Found unique URL #79: https://www.etsy.com/listing/810289629/editable-baby-boy-baby-shower-template
+2022-03-27 17:15:04,315 [MainThread  ] [INFO] Found unique URL #80: https://www.etsy.com/listing/1025008731/editable-7th-birthday-invitation
+2022-03-27 17:15:04,315 [MainThread  ] [INFO] Found unique URL #81: https://www.etsy.com/listing/1129597899/editable-and-customizable-new-year-party
+2022-03-27 17:15:04,315 [MainThread  ] [INFO] Found unique URL #82: https://www.etsy.com/pl/listing/1068446503/the-morning-after-editable-coffee-and
+2022-03-27 17:15:04,330 [MainThread  ] [INFO] Found unique URL #83: https://www.etsy.com/listing/1061150024/drinks-are-on-the-house-editable-and
+2022-03-27 17:15:04,330 [MainThread  ] [INFO] Found unique URL #84: https://www.etsy.com/listing/932399871/editable-50th-birthday-party-digital
+2022-03-27 17:15:04,330 [MainThread  ] [INFO] Found unique URL #85: https://www.etsy.com/listing/1076061531/our-little-boo-is-due-baby-announcement
+2022-03-27 17:15:04,330 [MainThread  ] [INFO] Found unique URL #86: https://archive.org/stream/in.gazette.kerala.2013-01-08/pdf_2013_2_Part_4_change_name_djvu.txt
+2022-03-27 17:15:04,346 [MainThread  ] [INFO] Found unique URL #87: https://www.trustpilot.com/review/gossby.com?page=923
+2022-03-27 17:15:04,346 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-03-27 17:15:15,348 [MainThread  ] [INFO] Stats: start=90, num=10, total_valid_links_found=87 / max_search_result_urls_to_return=100
+2022-03-27 17:15:15,348 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=90&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #88: https://ms-my.facebook.com/groups/viewfrommywindow/permalink/639605503335088/?comment_id=642286096400362
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #89: https://zh-cn.facebook.com/groups/viewfrommywindow/posts/665569324072039/?comment_id=682952415667063
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #90: https://www.etsy.com/listing/916772712/editable-vaccine-celebration-party-we
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #91: https://www.etsy.com/sg-en/listing/1115689506/editable-and-customizable-new-year-party
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #92: https://www.etsy.com/listing/1096887309/editable-and-customizable-block
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #93: https://sharechat.com/amp/post/kgVeGr0
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #94: https://sharechat.com/amp/post/jkmnyr3
+2022-03-27 17:15:17,582 [MainThread  ] [INFO] Found unique URL #95: https://www.jusbrasil.com.br/diarios/30793770/pg-745-secao-1-diario-oficial-da-uniao-dou-de-22-09-2011
+2022-03-27 17:15:17,598 [MainThread  ] [INFO] Found unique URL #96: https://www.airbnb.cn/seoroom/7cyl3
+2022-03-27 17:15:17,598 [MainThread  ] [INFO] Found unique URL #97: https://vdocuments.net/8th-j-kerala-gazette-published-by-authority-jan-2013-kerala-gazette.html
+2022-03-27 17:15:17,598 [MainThread  ] [INFO] Sleeping 15 seconds until retrieving the next page of results...
+2022-03-27 17:15:32,608 [MainThread  ] [INFO] Stats: start=100, num=10, total_valid_links_found=97 / max_search_result_urls_to_return=100
+2022-03-27 17:15:32,608 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=intext%3A%22smirutha%22&start=100&tbs=li:1&safe=off&cr=&filter=0
+2022-03-27 17:15:34,080 [MainThread  ] [WARNING] Google is blocking your IP for making too many requests in a specific time period.
+2022-03-27 17:15:34,080 [MainThread  ] [INFO] Sleeping for 60 minutes...
+2022-04-27 13:24:01,110 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-04-27 13:24:46,370 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:19:41,534 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:19:42,092 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:19:42,098 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:19:42,631 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:19:42,632 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:19:42,634 [MainThread  ] [INFO] Sleeping 14 seconds until retrieving the next page of results...
+2022-05-08 12:19:56,636 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-08 12:19:56,637 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:19:57,303 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-08 12:20:50,632 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:20:51,090 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:20:51,093 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+filetype%3Aenv&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:20:51,720 [MainThread  ] [INFO] Found unique URL #1: https://github.com/Adithya-HarshaBabu/training/blob/master/.env
+2022-05-08 12:20:51,738 [MainThread  ] [INFO] Sleeping 10 seconds until retrieving the next page of results...
+2022-05-08 12:22:45,170 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:22:45,856 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:22:45,859 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:22:46,430 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:22:46,432 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:22:46,438 [MainThread  ] [INFO] Sleeping 15 seconds until retrieving the next page of results...
+2022-05-08 12:33:12,736 [MainThread  ] [ERROR] The provided proxy scheme ("186.67.230.45") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:40:24,103 [MainThread  ] [ERROR] The provided proxy scheme ("194.233.69.90") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:50:58,876 [MainThread  ] [ERROR] The provided proxy scheme ("192.155.107.210") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:50:59,724 [MainThread  ] [ERROR] The provided proxy scheme ("200.105.215.18") is not valid and must be either "http", "https", "socks5", or "socks5h"
+2022-05-08 12:54:51,513 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:54:57,085 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:54:57,085 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:55:56,251 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:58:46,764 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-08 12:58:47,318 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-08 12:58:47,318 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-08 12:58:48,050 [MainThread  ] [INFO] Sleeping 9 seconds until retrieving the next page of results...
+2022-05-08 12:58:57,081 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-08 12:58:57,081 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-08 12:58:57,767 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-15 18:25:10,123 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:26:13,859 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:27:09,477 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:28:44,001 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:26,777 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:42,530 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:29:59,656 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:31:08,834 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:31:53,074 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:33:22,868 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:34:28,335 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:07,589 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:25,808 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:31,489 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:35:53,923 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:37:21,237 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:37:27,880 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:37:27,881 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:39:35,531 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:41:09,381 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:41:09,981 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:41:09,981 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:41:10,751 [MainThread  ] [INFO] Found unique URL #1: http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+2022-05-15 18:41:10,752 [MainThread  ] [INFO] Found unique URL #2: https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
+2022-05-15 18:41:10,754 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2022-05-15 18:41:21,758 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=2 / max_search_result_urls_to_return=100
+2022-05-15 18:41:21,759 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+inurl%3A%22ac.in%22+intext%3A%22%40gmail.com%22+or+%22%2B91%22+filetype%3Axlsx&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:41:22,493 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2022-05-15 18:42:22,173 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-05-15 18:42:22,564 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-05-15 18:42:22,565 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+filetype%3Aenv&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-05-15 18:42:23,309 [MainThread  ] [INFO] Found unique URL #1: https://github.com/Adithya-HarshaBabu/training/blob/master/.env
+2022-05-15 18:42:23,309 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...

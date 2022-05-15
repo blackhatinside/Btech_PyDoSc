@@ -1,0 +1,6 @@
+http://startup.iiitdmj.ac.in/docs/EOI-list.xlsx
+http://www.aus.ac.in/wp-content/uploads/2021/08/SWAYAM-NPTEL-Local-Chapter-Enrollment-Jan-April-2018.xlsx
+https://www.juit.ac.in/nptel/July-Oct%202017%20Enrolled%20NPTEL.xlsx
+https://jhub.ac.in/uploads/downloads/exciteteamlist.xlsx
+http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20lists%20FT%202018.xlsx
+https://github.com/Adithya-HarshaBabu/training/blob/master/.env
