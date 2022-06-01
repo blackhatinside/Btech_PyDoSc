@@ -245,7 +245,7 @@ class pydosc:
                         "https://www.exploit-db.com/",
                         "https://twitter.com/googlehacking/",
                         "https://linkedin.com/",    # requires account
-                        "https://instagram.com/",   # requires account
+                        # "https://instagram.com/",   # requires account
                     ]
                     for ignore_url in ignore_url_list:
                         if re.search(ignore_url, url, re.IGNORECASE):

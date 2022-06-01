@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+import urllib.request
+
+def isValidUser(link):
+	status_code = urllib.request.urlopen(link).getcode()
+	return status_code == 200
+
+def url_to_username(link):
+	prefix = "https://www.instagram.com/"
+	return link[len(prefix):-1]
+
 try:
 	import sys
 	import requests
@@ -21,6 +31,8 @@ try:
 		print("Module Error: ", err)
 
 	queries = []
+
+	isInstagram = True
 
 	''' to search using command line args - single search query
 	try:
@@ -52,15 +64,20 @@ try:
 					print(link)
 					isValidFile = re.findall("\.env$|\.xlsx$|\.xls$|\.docx$|\.doc$", link)
 					# print(isValidFile)	# DEBUG
-					if isValidFile:
-						page_links.append(link)
-						resource_links.write(link + "\n")
+					if isInstagram:
+						if isValidUser(link):
+							page_links.append(link)
+							resource_links.write(url_to_username(link) + "\n")
+					else:
+						if isValidFile:
+							page_links.append(link)
+							resource_links.write(link + "\n")
 
 		except Exception as err:
 			print("Error 2: ", err)
 
 	if page_links:
-		print("\n\tTop File Links found:\n", *page_links[:5], sep = "\n\t\t")
+		print("\n\tTop Five Links found:\n", *page_links[:5], sep = "\n\t\t")
 	else:
 		print("\n\tNo Links found, Moving on...\n")
 

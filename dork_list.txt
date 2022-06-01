@@ -1,10 +1,1 @@
-Adithya inurl:"ac.in" intext:"@gmail.com" or "+91" filetype:xlsx
-Adithya filetype:env
-intext:"Adithya" filetype:log
-intext:"Adithya" filetype:xslx
-intext:"Adithya"
-inurl:Adithya
-Adithya inurl:/proc/self/cwd
-intitle:Adithya
-intitle:Adithya inurl:ftp
-inanchor:Adithya
+Tamanna Verma inurl:instagram.com -tags -channel
