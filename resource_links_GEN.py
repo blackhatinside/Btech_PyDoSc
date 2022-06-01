@@ -2,11 +2,11 @@
 
 import urllib.request
 
-def isValidUser(link):
+def isValidUser(link):	# check if the given url is alive
 	status_code = urllib.request.urlopen(link).getcode()
 	return status_code == 200
 
-def url_to_username(link):
+def url_to_username(link):	# extract username from the url
 	prefix = "https://www.instagram.com/"
 	return link[len(prefix):-1]
 
@@ -62,13 +62,13 @@ try:
 			for query in queries[:3]:	# change list slicing to pull more dorks
 				for link in search(query, tld="co.in", num=5, stop=5, pause=randrange(5, 25)):
 					print(link)
-					isValidFile = re.findall("\.env$|\.xlsx$|\.xls$|\.docx$|\.doc$", link)
-					# print(isValidFile)	# DEBUG
 					if isInstagram:
 						if isValidUser(link):
 							page_links.append(link)
 							resource_links.write(url_to_username(link) + "\n")
 					else:
+						isValidFile = re.findall("\.env$|\.xlsx$|\.xls$|\.docx$|\.doc$", link)
+						# print(isValidFile)	# DEBUG
 						if isValidFile:
 							page_links.append(link)
 							resource_links.write(link + "\n")

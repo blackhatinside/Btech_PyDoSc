@@ -56,7 +56,7 @@ with open("my_osint_links.txt", encoding="utf8") as fp:
 			print("Skipping page... Error in reading the page.", e)
 			print("Skipping Current Proxy... Connnection Error!")
 			# soup = BeautifulSoup(page_data, 'html.parser')
-			# print(soup.prettify())
+			# print(soup.prettify())	# DEBUG
 		outputPhone = re.findall(PhoneRegex, page_data)
 		outputPhone = [x[-1] for x in outputPhone]	#ignore country code
 		print()	#line break
@@ -74,3 +74,4 @@ with open("my_osint_links.txt", encoding="utf8") as fp:
 	# print("GMail IDs found:", matchGmail)
 	# print("Phone Nums found:", matchPhone)
 '''
+

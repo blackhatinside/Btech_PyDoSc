@@ -1119,3 +1119,30 @@
 2022-05-15 18:42:22,565 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Adithya+filetype%3Aenv&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
 2022-05-15 18:42:23,309 [MainThread  ] [INFO] Found unique URL #1: https://github.com/Adithya-HarshaBabu/training/blob/master/.env
 2022-05-15 18:42:23,309 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2022-06-01 13:51:19,477 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2022-06-01 13:51:20,361 [MainThread  ] [INFO] Stats: start=0, num=10, total_valid_links_found=0 / max_search_result_urls_to_return=100
+2022-06-01 13:51:20,362 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Tamanna+Verma+inurl%3Ainstagram.com+-tags+-channel&btnG=Google+Search&tbs=li:1&safe=off&cr=&filter=0
+2022-06-01 13:51:21,375 [MainThread  ] [INFO] Found unique URL #1: https://www.instagram.com/tammy_971/
+2022-06-01 13:51:21,376 [MainThread  ] [INFO] Found unique URL #2: https://www.instagram.com/tamanna.18/
+2022-06-01 13:51:21,377 [MainThread  ] [INFO] Found unique URL #3: https://www.instagram.com/tamanna9509/
+2022-06-01 13:51:21,381 [MainThread  ] [INFO] Found unique URL #4: https://www.instagram.com/fitcoach_tamanna/
+2022-06-01 13:51:21,382 [MainThread  ] [INFO] Found unique URL #5: https://www.instagram.com/tamannaverma07/
+2022-06-01 13:51:21,382 [MainThread  ] [INFO] Found unique URL #6: https://www.instagram.com/pancake_on_the_table/
+2022-06-01 13:51:21,383 [MainThread  ] [INFO] Found unique URL #7: https://www.instagram.com/tamannaverma455/
+2022-06-01 13:51:21,384 [MainThread  ] [INFO] Found unique URL #8: https://www.instagram.com/tamannas_universe/
+2022-06-01 13:51:21,384 [MainThread  ] [INFO] Found unique URL #9: https://www.instagram.com/tamannaverma179/
+2022-06-01 13:51:21,385 [MainThread  ] [INFO] Found unique URL #10: https://www.instagram.com/sweetujahitamanna/
+2022-06-01 13:51:21,386 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2022-06-01 13:51:29,398 [MainThread  ] [INFO] Stats: start=10, num=10, total_valid_links_found=10 / max_search_result_urls_to_return=100
+2022-06-01 13:51:29,399 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=Tamanna+Verma+inurl%3Ainstagram.com+-tags+-channel&start=10&tbs=li:1&safe=off&cr=&filter=0
+2022-06-01 13:51:30,292 [MainThread  ] [INFO] Found unique URL #11: https://www.instagram.com/tamanna_2292/
+2022-06-01 13:51:30,293 [MainThread  ] [INFO] Found unique URL #12: https://www.instagram.com/tamanna_verma001/
+2022-06-01 13:51:30,296 [MainThread  ] [INFO] Found unique URL #13: https://www.instagram.com/tamannaverma9177/
+2022-06-01 13:51:30,303 [MainThread  ] [INFO] Found unique URL #14: https://www.instagram.com/tamanma__2648/
+2022-06-01 13:51:30,303 [MainThread  ] [INFO] Found unique URL #15: https://www.instagram.com/tamannaverma954/
+2022-06-01 13:51:30,305 [MainThread  ] [INFO] Found unique URL #16: https://www.instagram.com/tamannaverma428/
+2022-06-01 13:51:30,305 [MainThread  ] [INFO] Found unique URL #17: https://www.instagram.com/vertamanna/
+2022-06-01 13:51:30,306 [MainThread  ] [INFO] Found unique URL #18: https://www.instagram.com/tamannaverma389/
+2022-06-01 13:51:30,307 [MainThread  ] [INFO] Found unique URL #19: https://www.instagram.com/tamanna_verma_1234/
+2022-06-01 13:51:30,307 [MainThread  ] [INFO] Found unique URL #20: https://www.instagram.com/anna_verma20/
+2022-06-01 13:51:30,308 [MainThread  ] [INFO] Sleeping 16 seconds until retrieving the next page of results...

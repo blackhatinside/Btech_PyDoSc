@@ -879,3 +879,5 @@ http://archive.msruas.ac.in/pdf_files/Noticeboard/FMC/MBA/Internship%20Title%20l
 https://naacdvv.mkce.ac.in/3.7.1.1.xlsx
 2022-05-15 18:41:22,500 [MainProcess ] [MainThread  ] [INFO] Sleeping 56.7 seconds before executing the next dork search...
 2022-05-15 18:42:19,204 [MainProcess ] [MainThread  ] [INFO] Search ( 2 / 10 ) for Google dork [ Adithya filetype:env ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)' through proxy ''
+2022-06-01 13:51:19,471 [MainProcess ] [MainThread  ] [INFO] Initiation timestamp: 2022-06-01T13:51:19.471382
+2022-06-01 13:51:19,473 [MainProcess ] [MainThread  ] [INFO] Search ( 1 / 1 ) for Google dork [ Tamanna Verma inurl:instagram.com -tags -channel ] using User-Agent 'Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)' through proxy ''

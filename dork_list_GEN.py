@@ -29,8 +29,8 @@ def createQueries(keyword, *args, **kwargs):
 			if not (keyword[i].isalpha() or keyword[i].isspace()):
 				flag = False
 				break
-		if flag:
 
+		if flag:
 			# fo.write('#####-----YOUR DORKS BEGIN-----#####\n')
 
 			if isInstagram:
