@@ -288,4 +288,4 @@ Twitter: [@Cyberkid Adithya](https://twitter.com/CyberkidA)
 
 LinkedIn: [@Adithya E S](https://www.linkedin.com/in/adithyaes)
 
-Project Link: [https://github.com/opsdisk/pydosc](https://github.com/opsdisk/pydosc)
+Project Link: [https://github.com/CyberkidAdithya/PyDoSc](https://github.com/opsdisk/pydosc)
